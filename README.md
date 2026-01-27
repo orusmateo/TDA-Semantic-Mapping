@@ -6,7 +6,7 @@ This repository contains the source code and visualization output for the resear
 This study applies **Topological Data Analysis (TDA)** via the Mapper algorithm to a corpus of 100 academic abstracts. It identifies a topological "bridge" between **Indigenous Knowledge Systems** and **AI Safety Protocols**, quantitatively demonstrating semantic isomorphism between concepts such as "Contextual Anchoring" and "Relational Accountability."
 
 ## Repository Contents
-* `tda_pipeline.py`: Python script performing the sentence embedding (SBERT), dimensionality reduction (UMAP), and simplicial complex construction (KeplerMapper).
+* `tda_pipeline.ipynb`: Interactive Computational Notebook performing the sentence embedding (SBERT), dimensionality reduction (UMAP), and simplicial complex construction (KeplerMapper).
 * `thesis_real_data.html`: Interactive topological visualization of the semantic manifold.
 * `requirements.txt`: Python dependencies.
 
@@ -16,7 +16,9 @@ This study applies **Topological Data Analysis (TDA)** via the Mapper algorithm 
 3. **Mapper:** KeplerMapper w/ KMeans Clustering (`n_cubes=5`, `overlap=40%`)
 
 ## Usage
-To generate the graph:
-```bash
-pip install -r requirements.txt
-python tda_pipeline.py
+To replicate the analysis:
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
