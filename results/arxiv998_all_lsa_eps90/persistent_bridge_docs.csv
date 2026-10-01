@@ -1,0 +1,51 @@
+bridge_freq,label,on_topic,dual,title,url
+0.825,Field_A,False,False,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,http://arxiv.org/abs/2212.03041v1
+0.825,Field_A,False,False,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,http://arxiv.org/abs/1805.05769v1
+0.825,Field_A,False,False,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,http://arxiv.org/abs/2205.09683v2
+0.8166666666666667,Field_B,False,False,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI,http://arxiv.org/abs/2211.02759v1
+0.8166666666666667,Field_A,False,False,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,http://arxiv.org/abs/2112.03482v2
+0.8166666666666667,Field_B,False,False,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously,http://arxiv.org/abs/2007.03514v1
+0.8083333333333333,Field_A,False,False,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",http://arxiv.org/abs/2304.11739v1
+0.8083333333333333,Field_B,False,False,Deep Reinforcement Learning for Conversational AI,http://arxiv.org/abs/1709.05067v1
+0.8,Field_B,False,False,The AI Driving Olympics at NeurIPS 2018,http://arxiv.org/abs/1903.02503v1
+0.8,Field_A,False,False,Transferring Domain Knowledge with an Adviser in Continuous Tasks,http://arxiv.org/abs/2102.08029v1
+0.775,Field_B,True,False,Explainability in reinforcement learning: perspective and position,http://arxiv.org/abs/2203.11547v1
+0.7083333333333334,Field_B,False,False,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation",http://arxiv.org/abs/2403.09227v1
+0.7083333333333334,Field_A,False,False,Continual Learning via Inter-Task Synaptic Mapping,http://arxiv.org/abs/2106.13954v1
+0.7,Field_A,False,False,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,http://arxiv.org/abs/2306.02739v2
+0.7,Field_B,False,False,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems,http://arxiv.org/abs/2510.17281v4
+0.7,Field_A,False,False,Information-Theoretic Dual Memory System for Continual Learning,http://arxiv.org/abs/2501.07382v1
+0.7,Field_B,True,False,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay,http://arxiv.org/abs/2509.10529v1
+0.6916666666666667,Field_A,False,False,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,http://arxiv.org/abs/2309.15603v1
+0.6833333333333333,Field_B,False,False,Improving GenIR Systems Based on User Feedback,http://arxiv.org/abs/2501.02838v1
+0.6833333333333333,Field_B,True,False,Sustainable Artificial Intelligence through Continual Learning,http://arxiv.org/abs/2111.09437v1
+0.6833333333333333,Field_A,False,False,Densely Distilling Cumulative Knowledge for Continual Learning,http://arxiv.org/abs/2405.09820v1
+0.675,Field_A,False,False,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,http://arxiv.org/abs/2408.05200v4
+0.675,Field_A,False,False,Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays,http://arxiv.org/abs/2602.11607v1
+0.6416666666666667,Field_B,False,False,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization,http://arxiv.org/abs/2509.11056v1
+0.6333333333333333,Field_A,False,False,Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment,http://arxiv.org/abs/2407.10804v1
+0.6083333333333333,Field_B,True,False,"Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety",http://arxiv.org/abs/2312.06798v1
+0.6,Field_B,True,False,What does AI consider praiseworthy?,http://arxiv.org/abs/2412.09630v2
+0.6,Field_B,True,False,Reasoning in Neurosymbolic AI,http://arxiv.org/abs/2505.20313v1
+0.5916666666666667,Field_B,True,False,Pro-AI Bias in Large Language Models,http://arxiv.org/abs/2601.13749v1
+0.5833333333333334,Field_B,True,False,Street-Level AI: Are Large Language Models Ready for Real-World Judgments?,http://arxiv.org/abs/2508.08193v2
+0.5833333333333334,Field_A,True,False,Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios,http://arxiv.org/abs/2310.09237v1
+0.575,Field_B,True,False,Unmasking the Shadows of AI: Investigating Deceptive Capabilities in Large Language Models,http://arxiv.org/abs/2403.09676v1
+0.575,Field_B,False,False,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming,http://arxiv.org/abs/2304.09276v2
+0.5666666666666667,Field_A,False,False,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,http://arxiv.org/abs/1912.00512v2
+0.5666666666666667,Field_B,True,False,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition,http://arxiv.org/abs/2506.22443v1
+0.5666666666666667,Field_A,False,False,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,http://arxiv.org/abs/2303.10256v3
+0.5583333333333333,Field_B,False,False,Sensorium Arc: AI Agent System for Oceanic Data Exploration and Interactive Eco-Art,http://arxiv.org/abs/2511.15997v1
+0.55,Field_B,True,False,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI,http://arxiv.org/abs/2401.01040v1
+0.55,Field_A,False,False,Enhanced Knowledge Selection for Grounded Dialogues via Document Semantic Graphs,http://arxiv.org/abs/2206.07296v2
+0.55,Field_A,False,False,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,http://arxiv.org/abs/2412.19469v1
+0.5333333333333333,Field_B,True,False,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks,http://arxiv.org/abs/2405.16259v1
+0.525,Field_A,False,False,How Well Can Knowledge Edit Methods Edit Perplexing Knowledge?,http://arxiv.org/abs/2406.17253v3
+0.525,Field_B,True,False,Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis,http://arxiv.org/abs/2502.20383v3
+0.5166666666666667,Field_B,True,False,Multi-Agent Risks from Advanced AI,http://arxiv.org/abs/2502.14143v1
+0.5166666666666667,Field_A,False,False,Knowledge Conflicts for LLMs: A Survey,http://arxiv.org/abs/2403.08319v2
+0.5083333333333333,Field_A,False,False,Core Knowledge Deficits in Multi-Modal Language Models,http://arxiv.org/abs/2410.10855v4
+0.5083333333333333,Field_A,False,False,The Parallel Knowledge Gradient Method for Batch Bayesian Optimization,http://arxiv.org/abs/1606.04414v4
+0.5083333333333333,Field_B,False,False,AI Autonomy : Self-Initiated Open-World Continual Learning and Adaptation,http://arxiv.org/abs/2203.08994v3
+0.5083333333333333,Field_B,False,False,Green AI in Action: Strategic Model Selection for Ensembles in Production,http://arxiv.org/abs/2405.17451v2
+0.5,Field_B,False,False,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction,http://arxiv.org/abs/2512.20902v1

@@ -1,0 +1,989 @@
+{
+  "metadata": {
+    "corpus_size": 100,
+    "field_a_count": 50,
+    "field_b_count": 50,
+    "embedding_model": "all-mpnet-base-v2",
+    "embedding_dim": 768,
+    "selected_n_cubes": 3,
+    "selected_perc_overlap": 0.6,
+    "dbscan_eps": 0.5,
+    "dbscan_min_samples": 3
+  },
+  "topology": {
+    "umap_lens": {
+      "total_nodes": 8,
+      "total_edges": 22,
+      "connected_components": 1,
+      "bridge_nodes": 5
+    },
+    "pca_lens": {
+      "total_nodes": 12,
+      "total_edges": 50,
+      "connected_components": 1,
+      "bridge_nodes": 6
+    }
+  },
+  "bridges": [
+    {
+      "node_id": "cube4_cluster0",
+      "mixing_ratio": 0.917,
+      "size": 46,
+      "field_a_count": 24,
+      "field_b_count": 22,
+      "titles": [
+        "Indigenous Beadwork as a Method of Teaching Linear Algebra",
+        "Parallel Corpus for Indigenous Language Translation: Spanish-Mazatec and Spanish-Mixtec",
+        "Preservation of Indigenous Culture among Indigenous Migrants through Social Media: the Igorot Peoples",
+        "Enhancing Translation for Indigenous Languages: Experiments with Multilingual Models",
+        "Building a Language-Learning Game for Brazilian Indigenous Languages: A Case of Study",
+        "FUSE : A Ridge and Random Forest-Based Metric for Evaluating MT in Indigenous Languages",
+        "Building Sustainable and Trustworthy Indigenous Knowledge Preservation Ecosystem",
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "Building a Framework for Indigenous Astronomy Collaboration: Native Skywatchers, Indigenous Scientific Knowledge Systems, and The Bell Museum",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "Communicating uncertainty in Indigenous sea Country monitoring with Bayesian statistics: towards more informed decision-making",
+        "Expanding Cybersecurity Knowledge Through an Indigenous Lens: A First Look",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "Knowledge-driven Active Learning",
+        "Is the study of Indigenous mathematics ill-directed or beneficial?",
+        "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "The Use of ICT to preserve Australian Indigenous Culture and Language - a Preliminary Proposal using the Activity Theory Framework",
+        "NLP Progress in Indigenous Latin American Languages",
+        "Redefining technology for indigenous languages",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "How Do AI Companies \"Fine-Tune\" Policy? Examining Regulatory Capture in AI Governance",
+        "A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety",
+        "Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Lattica: A Decentralized Cross-NAT Communication Framework for Scalable AI Inference and Training",
+        "AI Governance and Ethics Framework for Sustainable AI and Sustainability",
+        "Data-Centric Safety and Ethical Measures for Data and AI Governance",
+        "AI Safety is Stuck in Technical Terms -- A System Safety Response to the International AI Safety Report",
+        "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Integrators at War: Mediating in AI-assisted Resort-to-Force Decisions",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "node_id": "cube8_cluster0",
+      "mixing_ratio": 0.688,
+      "size": 27,
+      "field_a_count": 11,
+      "field_b_count": 16,
+      "titles": [
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "Learning Attention-based Representations from Multiple Patterns for Relation Prediction in Knowledge Graphs",
+        "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "Knowledge Graph Curation: A Practical Framework",
+        "Improving Graph Embeddings in Machine Learning Using Knowledge Completion with Validation in a Case Study on COVID-19 Spread",
+        "Adversarial Learning for Debiasing Knowledge Graph Embeddings",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "Towards The Ultimate Brain: Exploring Scientific Discovery with ChatGPT AI",
+        "Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Exploring utilization of generative AI for research and education in data-driven materials science",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "node_id": "cube7_cluster0",
+      "mixing_ratio": 0.4,
+      "size": 42,
+      "field_a_count": 30,
+      "field_b_count": 12,
+      "titles": [
+        "Indigenous Beadwork as a Method of Teaching Linear Algebra",
+        "Parallel Corpus for Indigenous Language Translation: Spanish-Mazatec and Spanish-Mixtec",
+        "Preservation of Indigenous Culture among Indigenous Migrants through Social Media: the Igorot Peoples",
+        "Enhancing Translation for Indigenous Languages: Experiments with Multilingual Models",
+        "Building a Language-Learning Game for Brazilian Indigenous Languages: A Case of Study",
+        "FUSE : A Ridge and Random Forest-Based Metric for Evaluating MT in Indigenous Languages",
+        "Building Sustainable and Trustworthy Indigenous Knowledge Preservation Ecosystem",
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "Learning Attention-based Representations from Multiple Patterns for Relation Prediction in Knowledge Graphs",
+        "Building a Framework for Indigenous Astronomy Collaboration: Native Skywatchers, Indigenous Scientific Knowledge Systems, and The Bell Museum",
+        "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+        "Astro2020 APC White Paper: Collaboration with Integrity: Indigenous Knowledge in 21st Century Astronomy",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "Communicating uncertainty in Indigenous sea Country monitoring with Bayesian statistics: towards more informed decision-making",
+        "Knowledge Graph Curation: A Practical Framework",
+        "Improving Graph Embeddings in Machine Learning Using Knowledge Completion with Validation in a Case Study on COVID-19 Spread",
+        "Expanding Cybersecurity Knowledge Through an Indigenous Lens: A First Look",
+        "Adversarial Learning for Debiasing Knowledge Graph Embeddings",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "Is the study of Indigenous mathematics ill-directed or beneficial?",
+        "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "The Use of ICT to preserve Australian Indigenous Culture and Language - a Preliminary Proposal using the Activity Theory Framework",
+        "NLP Progress in Indigenous Latin American Languages",
+        "Redefining technology for indigenous languages",
+        "SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "node_id": "cube5_cluster0",
+      "mixing_ratio": 0.154,
+      "size": 45,
+      "field_a_count": 6,
+      "field_b_count": 39,
+      "titles": [
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "Knowledge-driven Active Learning",
+        "Foundations of GenIR",
+        "Meaningful human control: actionable properties for AI system development",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "How Do AI Companies \"Fine-Tune\" Policy? Examining Regulatory Capture in AI Governance",
+        "Need of AI in Modern Education: in the Eyes of Explainable AI (xAI)",
+        "Intelligent behavior depends on the ecological niche: Scaling up AI to human-like intelligence in socio-cultural environments",
+        "A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety",
+        "Towards The Ultimate Brain: Exploring Scientific Discovery with ChatGPT AI",
+        "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+        "Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions",
+        "Explaining how your AI system is fair",
+        "Blue Sky Ideas in Artificial Intelligence Education from the EAAI 2017 New and Future AI Educator Program",
+        "Recognising the importance of preference change: A call for a coordinated multidisciplinary research effort in the age of AI",
+        "Using Edge Cases to Disentangle Fairness and Solidarity in AI Ethics",
+        "Confucius, Cyberpunk and Mr. Science: Comparing AI ethics between China and the EU",
+        "Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Lattica: A Decentralized Cross-NAT Communication Framework for Scalable AI Inference and Training",
+        "Exploring utilization of generative AI for research and education in data-driven materials science",
+        "AI Governance and Ethics Framework for Sustainable AI and Sustainability",
+        "Data-Centric Safety and Ethical Measures for Data and AI Governance",
+        "AI Safety is Stuck in Technical Terms -- A System Safety Response to the International AI Safety Report",
+        "Fairness in AI: challenges in bridging the gap between algorithms and law",
+        "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Queering the ethics of AI",
+        "Integration of AI in STEM Education, Addressing Ethical Challenges in K-12 Settings",
+        "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+        "Integrators at War: Mediating in AI-assisted Resort-to-Force Decisions",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Cognitive Dissonance Artificial Intelligence (CD-AI): The Mind at War with Itself. Harnessing Discomfort to Sharpen Critical Thinking",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "node_id": "cube1_cluster0",
+      "mixing_ratio": 0.087,
+      "size": 25,
+      "field_a_count": 2,
+      "field_b_count": 23,
+      "titles": [
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Beyond principlism: Practical strategies for ethical AI use in research practices",
+        "Competing Visions of Ethical AI: A Case Study of OpenAI",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "How Do AI Companies \"Fine-Tune\" Policy? Examining Regulatory Capture in AI Governance",
+        "A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety",
+        "Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions",
+        "Privacy and Copyright Protection in Generative AI: A Lifecycle Perspective",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Lattica: A Decentralized Cross-NAT Communication Framework for Scalable AI Inference and Training",
+        "AI Governance and Ethics Framework for Sustainable AI and Sustainability",
+        "Data-Centric Safety and Ethical Measures for Data and AI Governance",
+        "AI Safety is Stuck in Technical Terms -- A System Safety Response to the International AI Safety Report",
+        "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Integrators at War: Mediating in AI-assisted Resort-to-Force Decisions",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    }
+  ],
+  "bridge_themes": [
+    {
+      "node_id": "cube4_cluster0",
+      "top_terms": [
+        [
+          "ai",
+          0.0886
+        ],
+        [
+          "indigenous",
+          0.0691
+        ],
+        [
+          "data",
+          0.0578
+        ],
+        [
+          "knowledge",
+          0.0466
+        ],
+        [
+          "languages",
+          0.0382
+        ],
+        [
+          "models",
+          0.0319
+        ],
+        [
+          "systems",
+          0.0318
+        ],
+        [
+          "xai",
+          0.0316
+        ],
+        [
+          "learning",
+          0.0307
+        ],
+        [
+          "communities",
+          0.0287
+        ],
+        [
+          "language",
+          0.0287
+        ],
+        [
+          "human",
+          0.0281
+        ],
+        [
+          "decision",
+          0.0267
+        ],
+        [
+          "safety",
+          0.026
+        ],
+        [
+          "challenges",
+          0.0248
+        ]
+      ]
+    },
+    {
+      "node_id": "cube8_cluster0",
+      "top_terms": [
+        [
+          "ai",
+          0.1
+        ],
+        [
+          "kgs",
+          0.0668
+        ],
+        [
+          "knowledge",
+          0.0617
+        ],
+        [
+          "xai",
+          0.0539
+        ],
+        [
+          "data",
+          0.0455
+        ],
+        [
+          "llms",
+          0.0425
+        ],
+        [
+          "graph",
+          0.04
+        ],
+        [
+          "systems",
+          0.0399
+        ],
+        [
+          "reasoning",
+          0.0368
+        ],
+        [
+          "performance",
+          0.0354
+        ],
+        [
+          "research",
+          0.0353
+        ],
+        [
+          "user",
+          0.035
+        ],
+        [
+          "models",
+          0.0339
+        ],
+        [
+          "information",
+          0.0339
+        ],
+        [
+          "users",
+          0.0321
+        ]
+      ]
+    },
+    {
+      "node_id": "cube7_cluster0",
+      "top_terms": [
+        [
+          "indigenous",
+          0.0838
+        ],
+        [
+          "knowledge",
+          0.0639
+        ],
+        [
+          "data",
+          0.0501
+        ],
+        [
+          "ai",
+          0.0483
+        ],
+        [
+          "kgs",
+          0.0429
+        ],
+        [
+          "languages",
+          0.0419
+        ],
+        [
+          "language",
+          0.0346
+        ],
+        [
+          "xai",
+          0.0346
+        ],
+        [
+          "communities",
+          0.0332
+        ],
+        [
+          "llms",
+          0.033
+        ],
+        [
+          "models",
+          0.0324
+        ],
+        [
+          "learning",
+          0.0285
+        ],
+        [
+          "indigenous knowledge",
+          0.0283
+        ],
+        [
+          "graph",
+          0.0257
+        ],
+        [
+          "systems",
+          0.0249
+        ]
+      ]
+    },
+    {
+      "node_id": "cube5_cluster0",
+      "top_terms": [
+        [
+          "ai",
+          0.1639
+        ],
+        [
+          "systems",
+          0.0473
+        ],
+        [
+          "human",
+          0.0446
+        ],
+        [
+          "data",
+          0.0396
+        ],
+        [
+          "decision",
+          0.034
+        ],
+        [
+          "fairness",
+          0.0337
+        ],
+        [
+          "xai",
+          0.0323
+        ],
+        [
+          "intelligence",
+          0.0319
+        ],
+        [
+          "ai systems",
+          0.0295
+        ],
+        [
+          "making",
+          0.0287
+        ],
+        [
+          "reasoning",
+          0.0286
+        ],
+        [
+          "user",
+          0.0285
+        ],
+        [
+          "users",
+          0.0283
+        ],
+        [
+          "artificial",
+          0.0275
+        ],
+        [
+          "artificial intelligence",
+          0.0275
+        ]
+      ]
+    },
+    {
+      "node_id": "cube1_cluster0",
+      "top_terms": [
+        [
+          "ai",
+          0.162
+        ],
+        [
+          "xai",
+          0.0582
+        ],
+        [
+          "safety",
+          0.0535
+        ],
+        [
+          "data",
+          0.0481
+        ],
+        [
+          "decision",
+          0.0401
+        ],
+        [
+          "users",
+          0.0399
+        ],
+        [
+          "making",
+          0.0379
+        ],
+        [
+          "human",
+          0.0375
+        ],
+        [
+          "systems",
+          0.037
+        ],
+        [
+          "decision making",
+          0.0356
+        ],
+        [
+          "ethical",
+          0.0335
+        ],
+        [
+          "research",
+          0.0328
+        ],
+        [
+          "communication",
+          0.0323
+        ],
+        [
+          "address",
+          0.0302
+        ],
+        [
+          "technical",
+          0.0298
+        ]
+      ]
+    }
+  ],
+  "cross_field_edges": [
+    {
+      "source": "cube1_cluster0",
+      "source_class": "Field_B",
+      "target": "cube3_cluster0",
+      "target_class": "Field_A",
+      "shared_titles": [
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios"
+      ]
+    },
+    {
+      "source": "cube1_cluster0",
+      "source_class": "Field_B",
+      "target": "cube4_cluster0",
+      "target_class": "Mixed",
+      "shared_titles": [
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "How Do AI Companies \"Fine-Tune\" Policy? Examining Regulatory Capture in AI Governance",
+        "A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety",
+        "Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Lattica: A Decentralized Cross-NAT Communication Framework for Scalable AI Inference and Training",
+        "AI Governance and Ethics Framework for Sustainable AI and Sustainability",
+        "Data-Centric Safety and Ethical Measures for Data and AI Governance",
+        "AI Safety is Stuck in Technical Terms -- A System Safety Response to the International AI Safety Report",
+        "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Integrators at War: Mediating in AI-assisted Resort-to-Force Decisions",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "source": "cube1_cluster0",
+      "source_class": "Field_B",
+      "target": "cube6_cluster0",
+      "target_class": "Field_A",
+      "shared_titles": [
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios"
+      ]
+    },
+    {
+      "source": "cube1_cluster0",
+      "source_class": "Field_B",
+      "target": "cube7_cluster0",
+      "target_class": "Field_A",
+      "shared_titles": [
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making"
+      ]
+    },
+    {
+      "source": "cube1_cluster0",
+      "source_class": "Field_B",
+      "target": "cube8_cluster0",
+      "target_class": "Mixed",
+      "shared_titles": [
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making"
+      ]
+    },
+    {
+      "source": "cube2_cluster0",
+      "source_class": "Field_B",
+      "target": "cube4_cluster0",
+      "target_class": "Mixed",
+      "shared_titles": [
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "How Do AI Companies \"Fine-Tune\" Policy? Examining Regulatory Capture in AI Governance",
+        "A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety",
+        "Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Lattica: A Decentralized Cross-NAT Communication Framework for Scalable AI Inference and Training",
+        "AI Governance and Ethics Framework for Sustainable AI and Sustainability",
+        "Data-Centric Safety and Ethical Measures for Data and AI Governance",
+        "AI Safety is Stuck in Technical Terms -- A System Safety Response to the International AI Safety Report",
+        "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Integrators at War: Mediating in AI-assisted Resort-to-Force Decisions",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "source": "cube2_cluster0",
+      "source_class": "Field_B",
+      "target": "cube7_cluster0",
+      "target_class": "Field_A",
+      "shared_titles": [
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making"
+      ]
+    },
+    {
+      "source": "cube2_cluster0",
+      "source_class": "Field_B",
+      "target": "cube8_cluster0",
+      "target_class": "Mixed",
+      "shared_titles": [
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking"
+      ]
+    },
+    {
+      "source": "cube3_cluster0",
+      "source_class": "Field_A",
+      "target": "cube4_cluster0",
+      "target_class": "Mixed",
+      "shared_titles": [
+        "Indigenous Beadwork as a Method of Teaching Linear Algebra",
+        "Parallel Corpus for Indigenous Language Translation: Spanish-Mazatec and Spanish-Mixtec",
+        "Preservation of Indigenous Culture among Indigenous Migrants through Social Media: the Igorot Peoples",
+        "Enhancing Translation for Indigenous Languages: Experiments with Multilingual Models",
+        "Building a Language-Learning Game for Brazilian Indigenous Languages: A Case of Study",
+        "FUSE : A Ridge and Random Forest-Based Metric for Evaluating MT in Indigenous Languages",
+        "Building Sustainable and Trustworthy Indigenous Knowledge Preservation Ecosystem",
+        "Is the study of Indigenous mathematics ill-directed or beneficial?",
+        "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "The Use of ICT to preserve Australian Indigenous Culture and Language - a Preliminary Proposal using the Activity Theory Framework",
+        "NLP Progress in Indigenous Latin American Languages",
+        "Redefining technology for indigenous languages",
+        "Building a Framework for Indigenous Astronomy Collaboration: Native Skywatchers, Indigenous Scientific Knowledge Systems, and The Bell Museum",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "Communicating uncertainty in Indigenous sea Country monitoring with Bayesian statistics: towards more informed decision-making",
+        "Expanding Cybersecurity Knowledge Through an Indigenous Lens: A First Look"
+      ]
+    },
+    {
+      "source": "cube4_cluster0",
+      "source_class": "Mixed",
+      "target": "cube5_cluster0",
+      "target_class": "Field_B",
+      "shared_titles": [
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "Knowledge-driven Active Learning",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "How Do AI Companies \"Fine-Tune\" Policy? Examining Regulatory Capture in AI Governance",
+        "A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety",
+        "Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Lattica: A Decentralized Cross-NAT Communication Framework for Scalable AI Inference and Training",
+        "AI Governance and Ethics Framework for Sustainable AI and Sustainability",
+        "Data-Centric Safety and Ethical Measures for Data and AI Governance",
+        "AI Safety is Stuck in Technical Terms -- A System Safety Response to the International AI Safety Report",
+        "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Integrators at War: Mediating in AI-assisted Resort-to-Force Decisions",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "source": "cube4_cluster0",
+      "source_class": "Mixed",
+      "target": "cube6_cluster0",
+      "target_class": "Field_A",
+      "shared_titles": [
+        "Indigenous Beadwork as a Method of Teaching Linear Algebra",
+        "Parallel Corpus for Indigenous Language Translation: Spanish-Mazatec and Spanish-Mixtec",
+        "Preservation of Indigenous Culture among Indigenous Migrants through Social Media: the Igorot Peoples",
+        "Enhancing Translation for Indigenous Languages: Experiments with Multilingual Models",
+        "Building a Language-Learning Game for Brazilian Indigenous Languages: A Case of Study",
+        "FUSE : A Ridge and Random Forest-Based Metric for Evaluating MT in Indigenous Languages",
+        "Building Sustainable and Trustworthy Indigenous Knowledge Preservation Ecosystem",
+        "Is the study of Indigenous mathematics ill-directed or beneficial?",
+        "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "The Use of ICT to preserve Australian Indigenous Culture and Language - a Preliminary Proposal using the Activity Theory Framework",
+        "NLP Progress in Indigenous Latin American Languages",
+        "Redefining technology for indigenous languages",
+        "Building a Framework for Indigenous Astronomy Collaboration: Native Skywatchers, Indigenous Scientific Knowledge Systems, and The Bell Museum",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "Communicating uncertainty in Indigenous sea Country monitoring with Bayesian statistics: towards more informed decision-making",
+        "Expanding Cybersecurity Knowledge Through an Indigenous Lens: A First Look"
+      ]
+    },
+    {
+      "source": "cube4_cluster0",
+      "source_class": "Mixed",
+      "target": "cube7_cluster0",
+      "target_class": "Field_A",
+      "shared_titles": [
+        "Indigenous Beadwork as a Method of Teaching Linear Algebra",
+        "Parallel Corpus for Indigenous Language Translation: Spanish-Mazatec and Spanish-Mixtec",
+        "Preservation of Indigenous Culture among Indigenous Migrants through Social Media: the Igorot Peoples",
+        "Enhancing Translation for Indigenous Languages: Experiments with Multilingual Models",
+        "Building a Language-Learning Game for Brazilian Indigenous Languages: A Case of Study",
+        "FUSE : A Ridge and Random Forest-Based Metric for Evaluating MT in Indigenous Languages",
+        "Building Sustainable and Trustworthy Indigenous Knowledge Preservation Ecosystem",
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "Building a Framework for Indigenous Astronomy Collaboration: Native Skywatchers, Indigenous Scientific Knowledge Systems, and The Bell Museum",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "Communicating uncertainty in Indigenous sea Country monitoring with Bayesian statistics: towards more informed decision-making",
+        "Expanding Cybersecurity Knowledge Through an Indigenous Lens: A First Look",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "Is the study of Indigenous mathematics ill-directed or beneficial?",
+        "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "The Use of ICT to preserve Australian Indigenous Culture and Language - a Preliminary Proposal using the Activity Theory Framework",
+        "NLP Progress in Indigenous Latin American Languages",
+        "Redefining technology for indigenous languages",
+        "Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "source": "cube5_cluster0",
+      "source_class": "Field_B",
+      "target": "cube7_cluster0",
+      "target_class": "Field_A",
+      "shared_titles": [
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations"
+      ]
+    },
+    {
+      "source": "cube5_cluster0",
+      "source_class": "Field_B",
+      "target": "cube8_cluster0",
+      "target_class": "Mixed",
+      "shared_titles": [
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "Towards The Ultimate Brain: Exploring Scientific Discovery with ChatGPT AI",
+        "Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Exploring utilization of generative AI for research and education in data-driven materials science",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    },
+    {
+      "source": "cube7_cluster0",
+      "source_class": "Field_A",
+      "target": "cube8_cluster0",
+      "target_class": "Mixed",
+      "shared_titles": [
+        "Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond",
+        "Learning Attention-based Representations from Multiple Patterns for Relation Prediction in Knowledge Graphs",
+        "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+        "AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce",
+        "User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams",
+        "A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs",
+        "Knowledge Graph Curation: A Practical Framework",
+        "Improving Graph Embeddings in Machine Learning Using Knowledge Completion with Validation in a Case Study on COVID-19 Spread",
+        "Adversarial Learning for Debiasing Knowledge Graph Embeddings",
+        "On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations",
+        "SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval",
+        "Foundations of GenIR",
+        "Towards a Praxis for Intercultural Ethics in Explainable AI",
+        "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "Study on the Helpfulness of Explainable Artificial Intelligence",
+        "White-Box AI Model: Next Frontier of Wireless Communications",
+        "Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities",
+        "Interaction Design for Explainable AI: Workshop Proceedings",
+        "Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System",
+        "Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction",
+        "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+        "Desiderata for Explainable AI in statistical production systems of the European Central Bank",
+        "Supporting Data-Frame Dynamics in AI-assisted Decision Making"
+      ]
+    }
+  ],
+  "seed_stability": [
+    {
+      "seed": 42,
+      "nodes": 8,
+      "bridge_nodes": 5,
+      "mean_mixing": 0.449
+    },
+    {
+      "seed": 123,
+      "nodes": 12,
+      "bridge_nodes": 7,
+      "mean_mixing": 0.44
+    },
+    {
+      "seed": 456,
+      "nodes": 11,
+      "bridge_nodes": 5,
+      "mean_mixing": 0.56
+    },
+    {
+      "seed": 789,
+      "nodes": 9,
+      "bridge_nodes": 5,
+      "mean_mixing": 0.348
+    },
+    {
+      "seed": 1024,
+      "nodes": 12,
+      "bridge_nodes": 7,
+      "mean_mixing": 0.313
+    }
+  ]
+}

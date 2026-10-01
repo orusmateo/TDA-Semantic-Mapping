@@ -1,0 +1,110 @@
+doc_a,doc_b,freq,title_a,title_b
+34,945,0.875,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+152,945,0.875,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+492,945,0.875,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+465,945,0.875,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+34,693,0.8666666666666667,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,Deep Reinforcement Learning for Conversational AI
+465,693,0.8666666666666667,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Deep Reinforcement Learning for Conversational AI
+420,693,0.8666666666666667,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Deep Reinforcement Learning for Conversational AI
+492,693,0.8666666666666667,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Deep Reinforcement Learning for Conversational AI
+420,945,0.8666666666666667,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+152,693,0.8666666666666667,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Deep Reinforcement Learning for Conversational AI
+492,810,0.8583333333333333,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,The AI Driving Olympics at NeurIPS 2018
+152,810,0.8583333333333333,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,The AI Driving Olympics at NeurIPS 2018
+34,810,0.8583333333333333,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,The AI Driving Olympics at NeurIPS 2018
+465,810,0.8583333333333333,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,The AI Driving Olympics at NeurIPS 2018
+420,810,0.8583333333333333,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",The AI Driving Olympics at NeurIPS 2018
+147,945,0.85,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+147,693,0.8416666666666667,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Deep Reinforcement Learning for Conversational AI
+492,677,0.8333333333333334,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Explainability in reinforcement learning: perspective and position
+465,677,0.8333333333333334,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Explainability in reinforcement learning: perspective and position
+420,677,0.8333333333333334,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Explainability in reinforcement learning: perspective and position
+152,677,0.8333333333333334,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Explainability in reinforcement learning: perspective and position
+34,677,0.8333333333333334,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,Explainability in reinforcement learning: perspective and position
+147,677,0.825,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Explainability in reinforcement learning: perspective and position
+147,810,0.8166666666666667,Transferring Domain Knowledge with an Adviser in Continuous Tasks,The AI Driving Olympics at NeurIPS 2018
+373,682,0.775,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+152,682,0.7666666666666667,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+201,708,0.7666666666666667,Densely Distilling Cumulative Knowledge for Continual Learning,Improving GenIR Systems Based on User Feedback
+201,667,0.7666666666666667,Densely Distilling Cumulative Knowledge for Continual Learning,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay
+373,945,0.7666666666666667,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+235,657,0.7666666666666667,Continual Learning via Inter-Task Synaptic Mapping,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
+311,667,0.7666666666666667,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay
+235,667,0.7666666666666667,Continual Learning via Inter-Task Synaptic Mapping,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay
+201,657,0.7666666666666667,Densely Distilling Cumulative Knowledge for Continual Learning,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
+498,708,0.7666666666666667,Information-Theoretic Dual Memory System for Continual Learning,Improving GenIR Systems Based on User Feedback
+498,667,0.7666666666666667,Information-Theoretic Dual Memory System for Continual Learning,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay
+465,682,0.7666666666666667,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+311,708,0.7666666666666667,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,Improving GenIR Systems Based on User Feedback
+311,657,0.7666666666666667,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
+235,708,0.7666666666666667,Continual Learning via Inter-Task Synaptic Mapping,Improving GenIR Systems Based on User Feedback
+492,682,0.7666666666666667,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+498,657,0.7666666666666667,Information-Theoretic Dual Memory System for Continual Learning,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
+34,682,0.7666666666666667,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+201,720,0.7583333333333333,Densely Distilling Cumulative Knowledge for Continual Learning,Sustainable Artificial Intelligence through Continual Learning
+498,720,0.7583333333333333,Information-Theoretic Dual Memory System for Continual Learning,Sustainable Artificial Intelligence through Continual Learning
+420,682,0.7583333333333333,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+311,720,0.7583333333333333,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,Sustainable Artificial Intelligence through Continual Learning
+373,693,0.7583333333333333,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Deep Reinforcement Learning for Conversational AI
+235,720,0.7583333333333333,Continual Learning via Inter-Task Synaptic Mapping,Sustainable Artificial Intelligence through Continual Learning
+373,810,0.7583333333333333,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,The AI Driving Olympics at NeurIPS 2018
+147,682,0.75,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+188,667,0.7416666666666667,Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay
+188,708,0.7416666666666667,Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays,Improving GenIR Systems Based on User Feedback
+188,657,0.7416666666666667,Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
+120,708,0.7333333333333333,Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment,Improving GenIR Systems Based on User Feedback
+120,667,0.7333333333333333,Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay
+120,657,0.7333333333333333,Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
+188,720,0.7333333333333333,Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays,Sustainable Artificial Intelligence through Continual Learning
+498,520,0.725,Information-Theoretic Dual Memory System for Continual Learning,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+120,720,0.725,Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment,Sustainable Artificial Intelligence through Continual Learning
+235,520,0.725,Continual Learning via Inter-Task Synaptic Mapping,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+311,520,0.725,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+201,520,0.725,Densely Distilling Cumulative Knowledge for Continual Learning,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+373,677,0.7166666666666667,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Explainability in reinforcement learning: perspective and position
+120,520,0.7,Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+188,520,0.6916666666666667,Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+460,693,0.6166666666666667,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Deep Reinforcement Learning for Conversational AI
+460,677,0.6166666666666667,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Explainability in reinforcement learning: perspective and position
+460,945,0.6166666666666667,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+226,972,0.5583333333333333,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+226,938,0.55,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+226,928,0.5416666666666666,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks
+226,654,0.5416666666666666,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Reasoning in Neurosymbolic AI
+226,731,0.5416666666666666,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+375,928,0.525,The Parallel Knowledge Gradient Method for Batch Bayesian Optimization,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks
+375,972,0.525,The Parallel Knowledge Gradient Method for Batch Bayesian Optimization,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+97,972,0.5166666666666667,Posterior Regularized Bayesian Neural Network Incorporating Soft and Hard Knowledge Constraints,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+97,928,0.5166666666666667,Posterior Regularized Bayesian Neural Network Incorporating Soft and Hard Knowledge Constraints,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks
+481,972,0.5166666666666667,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+464,928,0.5166666666666667,A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks
+481,938,0.5166666666666667,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+375,654,0.5166666666666667,The Parallel Knowledge Gradient Method for Batch Bayesian Optimization,Reasoning in Neurosymbolic AI
+375,938,0.5166666666666667,The Parallel Knowledge Gradient Method for Batch Bayesian Optimization,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+481,731,0.5166666666666667,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+464,972,0.5166666666666667,A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+97,938,0.5083333333333333,Posterior Regularized Bayesian Neural Network Incorporating Soft and Hard Knowledge Constraints,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+464,654,0.5083333333333333,A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier,Reasoning in Neurosymbolic AI
+97,654,0.5083333333333333,Posterior Regularized Bayesian Neural Network Incorporating Soft and Hard Knowledge Constraints,Reasoning in Neurosymbolic AI
+460,810,0.5083333333333333,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,The AI Driving Olympics at NeurIPS 2018
+464,938,0.5083333333333333,A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+34,538,0.5,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction
+82,972,0.5,AutoEmbedder: A semi-supervised DNN embedding system for clustering,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+82,654,0.5,AutoEmbedder: A semi-supervised DNN embedding system for clustering,Reasoning in Neurosymbolic AI
+82,928,0.5,AutoEmbedder: A semi-supervised DNN embedding system for clustering,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks
+152,538,0.5,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction
+375,731,0.5,The Parallel Knowledge Gradient Method for Batch Bayesian Optimization,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+368,654,0.5,Adaptive Structural Learning of Deep Belief Network for Medical Examination Data and Its Knowledge Extraction by using C4.5,Reasoning in Neurosymbolic AI
+368,972,0.5,Adaptive Structural Learning of Deep Belief Network for Medical Examination Data and Its Knowledge Extraction by using C4.5,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+338,520,0.5,Knowledge Distillation for Multi-task Learning,BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+338,657,0.5,Knowledge Distillation for Multi-task Learning,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
+338,667,0.5,Knowledge Distillation for Multi-task Learning,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay
+338,708,0.5,Knowledge Distillation for Multi-task Learning,Improving GenIR Systems Based on User Feedback
+290,654,0.5,ConiVAT: Cluster Tendency Assessment and Clustering with Partial Background Knowledge,Reasoning in Neurosymbolic AI
+290,972,0.5,ConiVAT: Cluster Tendency Assessment and Clustering with Partial Background Knowledge,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+290,928,0.5,ConiVAT: Cluster Tendency Assessment and Clustering with Partial Background Knowledge,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks
+368,928,0.5,Adaptive Structural Learning of Deep Belief Network for Medical Examination Data and Its Knowledge Extraction by using C4.5,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks
+465,538,0.5,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction
+492,538,0.5,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction
+481,654,0.5,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Reasoning in Neurosymbolic AI
+481,928,0.5,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks

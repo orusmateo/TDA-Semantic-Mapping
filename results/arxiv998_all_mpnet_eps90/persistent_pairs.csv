@@ -1,0 +1,283 @@
+doc_a,doc_b,freq,title_a,title_b
+268,911,0.7666666666666667,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+268,814,0.7666666666666667,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+281,711,0.7583333333333333,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,Rethinking industrial artificial intelligence: a unified foundation framework
+281,967,0.7583333333333333,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+481,814,0.75,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+481,911,0.75,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+268,711,0.75,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Rethinking industrial artificial intelligence: a unified foundation framework
+281,911,0.7416666666666667,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+268,967,0.7416666666666667,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+483,911,0.7416666666666667,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+483,814,0.7416666666666667,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+268,929,0.7333333333333333,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+281,929,0.7333333333333333,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+481,967,0.725,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+481,929,0.725,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+341,814,0.725,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+465,696,0.725,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+481,711,0.725,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Rethinking industrial artificial intelligence: a unified foundation framework
+254,911,0.725,Knowledge Distillation from Large Language Models for Household Energy Modeling,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+492,696,0.725,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+341,911,0.725,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+254,814,0.725,Knowledge Distillation from Large Language Models for Household Energy Modeling,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+194,967,0.725,Knowledge Informed Machine Learning using a Weibull-based Loss Function,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+194,711,0.725,Knowledge Informed Machine Learning using a Weibull-based Loss Function,Rethinking industrial artificial intelligence: a unified foundation framework
+194,929,0.725,Knowledge Informed Machine Learning using a Weibull-based Loss Function,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+492,693,0.7166666666666667,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Deep Reinforcement Learning for Conversational AI
+147,693,0.7166666666666667,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Deep Reinforcement Learning for Conversational AI
+281,814,0.7166666666666667,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+194,911,0.7166666666666667,Knowledge Informed Machine Learning using a Weibull-based Loss Function,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+483,929,0.7083333333333334,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+254,865,0.7083333333333334,Knowledge Distillation from Large Language Models for Household Energy Modeling,Green AI in Action: Strategic Model Selection for Ensembles in Production
+373,696,0.7083333333333334,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+492,810,0.7083333333333334,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,The AI Driving Olympics at NeurIPS 2018
+492,682,0.7083333333333334,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+341,929,0.7083333333333334,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+147,696,0.7083333333333334,Transferring Domain Knowledge with an Adviser in Continuous Tasks,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+264,967,0.7083333333333334,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+465,682,0.7083333333333334,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+147,810,0.7083333333333334,Transferring Domain Knowledge with an Adviser in Continuous Tasks,The AI Driving Olympics at NeurIPS 2018
+147,945,0.7,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+465,693,0.7,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Deep Reinforcement Learning for Conversational AI
+268,865,0.7,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Green AI in Action: Strategic Model Selection for Ensembles in Production
+341,865,0.7,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,Green AI in Action: Strategic Model Selection for Ensembles in Production
+264,711,0.7,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,Rethinking industrial artificial intelligence: a unified foundation framework
+373,682,0.7,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+483,865,0.7,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Green AI in Action: Strategic Model Selection for Ensembles in Production
+465,810,0.7,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,The AI Driving Olympics at NeurIPS 2018
+372,967,0.6916666666666667,Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+194,814,0.6916666666666667,Knowledge Informed Machine Learning using a Weibull-based Loss Function,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+372,711,0.6916666666666667,Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems,Rethinking industrial artificial intelligence: a unified foundation framework
+460,696,0.6833333333333333,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+373,693,0.6833333333333333,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Deep Reinforcement Learning for Conversational AI
+373,810,0.6833333333333333,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,The AI Driving Olympics at NeurIPS 2018
+254,929,0.6833333333333333,Knowledge Distillation from Large Language Models for Household Energy Modeling,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+264,911,0.6833333333333333,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+492,945,0.6833333333333333,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+264,929,0.6833333333333333,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+460,693,0.6833333333333333,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Deep Reinforcement Learning for Conversational AI
+483,872,0.675,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+254,872,0.675,Knowledge Distillation from Large Language Models for Household Energy Modeling,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+460,945,0.675,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+152,693,0.675,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Deep Reinforcement Learning for Conversational AI
+483,755,0.675,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+341,755,0.675,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+341,872,0.675,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+254,755,0.675,Knowledge Distillation from Large Language Models for Household Energy Modeling,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+152,945,0.675,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+147,682,0.675,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+465,945,0.675,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+372,929,0.675,Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+492,774,0.6666666666666666,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+264,814,0.6666666666666666,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+460,810,0.6666666666666666,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,The AI Driving Olympics at NeurIPS 2018
+373,774,0.6666666666666666,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+123,696,0.6666666666666666,Knowledge Representation for Robots through Human-Robot Interaction,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+465,774,0.6666666666666666,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+325,890,0.6666666666666666,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,The 4th AI City Challenge
+325,615,0.6666666666666666,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
+229,865,0.6666666666666666,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,Green AI in Action: Strategic Model Selection for Ensembles in Production
+268,755,0.6666666666666666,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+123,693,0.6666666666666666,Knowledge Representation for Robots through Human-Robot Interaction,Deep Reinforcement Learning for Conversational AI
+123,810,0.6666666666666666,Knowledge Representation for Robots through Human-Robot Interaction,The AI Driving Olympics at NeurIPS 2018
+481,865,0.6583333333333333,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Green AI in Action: Strategic Model Selection for Ensembles in Production
+132,615,0.6583333333333333,A Survey on Knowledge Graph-based Methods for Automated Driving,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
+123,682,0.6583333333333333,Knowledge Representation for Robots through Human-Robot Interaction,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+118,693,0.6583333333333333,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,Deep Reinforcement Learning for Conversational AI
+118,696,0.6583333333333333,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+118,810,0.6583333333333333,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,The AI Driving Olympics at NeurIPS 2018
+325,910,0.6583333333333333,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,The 5th AI City Challenge
+483,803,0.6583333333333333,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Efficiency Will Not Lead to Sustainable Reasoning AI
+376,615,0.6583333333333333,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
+341,803,0.6583333333333333,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,Efficiency Will Not Lead to Sustainable Reasoning AI
+372,911,0.6583333333333333,Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+376,890,0.6583333333333333,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,The 4th AI City Challenge
+254,803,0.6583333333333333,Knowledge Distillation from Large Language Models for Household Energy Modeling,Efficiency Will Not Lead to Sustainable Reasoning AI
+376,910,0.65,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,The 5th AI City Challenge
+118,682,0.65,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+341,997,0.65,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+254,686,0.65,Knowledge Distillation from Large Language Models for Household Energy Modeling,Energy Efficiency Considerations for Popular AI Benchmarks
+341,967,0.65,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+254,997,0.65,Knowledge Distillation from Large Language Models for Household Energy Modeling,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+229,814,0.65,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+420,945,0.65,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+460,682,0.65,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+483,997,0.65,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+420,693,0.65,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Deep Reinforcement Learning for Conversational AI
+147,774,0.65,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+251,814,0.65,DeepVATS: Deep Visual Analytics for Time Series,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+483,967,0.65,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+483,686,0.65,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Energy Efficiency Considerations for Popular AI Benchmarks
+152,696,0.65,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+268,872,0.65,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+268,686,0.65,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Energy Efficiency Considerations for Popular AI Benchmarks
+341,686,0.65,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,Energy Efficiency Considerations for Popular AI Benchmarks
+261,814,0.65,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+268,997,0.6416666666666667,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+229,755,0.6416666666666667,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+118,774,0.6416666666666667,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+373,945,0.6416666666666667,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+261,711,0.6416666666666667,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Rethinking industrial artificial intelligence: a unified foundation framework
+229,911,0.6416666666666667,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+460,774,0.6416666666666667,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+152,810,0.6416666666666667,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,The AI Driving Olympics at NeurIPS 2018
+251,711,0.6416666666666667,DeepVATS: Deep Visual Analytics for Time Series,Rethinking industrial artificial intelligence: a unified foundation framework
+261,911,0.6416666666666667,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+268,803,0.6416666666666667,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Efficiency Will Not Lead to Sustainable Reasoning AI
+251,967,0.6416666666666667,DeepVATS: Deep Visual Analytics for Time Series,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+484,711,0.6333333333333333,Knowledge Distillation and Enhanced Subdomain Adaptation Using Graph Convolutional Network for Resource-Constrained Bearing Fault Diagnosis,Rethinking industrial artificial intelligence: a unified foundation framework
+484,967,0.6333333333333333,Knowledge Distillation and Enhanced Subdomain Adaptation Using Graph Convolutional Network for Resource-Constrained Bearing Fault Diagnosis,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+433,945,0.6333333333333333,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+251,929,0.6333333333333333,DeepVATS: Deep Visual Analytics for Time Series,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+254,967,0.6333333333333333,Knowledge Distillation from Large Language Models for Household Energy Modeling,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+251,911,0.6333333333333333,DeepVATS: Deep Visual Analytics for Time Series,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+226,731,0.6333333333333333,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+229,872,0.6333333333333333,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+261,929,0.6333333333333333,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+261,967,0.6333333333333333,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+481,755,0.6333333333333333,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+123,774,0.625,Knowledge Representation for Robots through Human-Robot Interaction,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+123,945,0.625,Knowledge Representation for Robots through Human-Robot Interaction,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+132,731,0.625,A Survey on Knowledge Graph-based Methods for Automated Driving,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+132,890,0.625,A Survey on Knowledge Graph-based Methods for Automated Driving,The 4th AI City Challenge
+420,682,0.625,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+229,997,0.625,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+341,711,0.625,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,Rethinking industrial artificial intelligence: a unified foundation framework
+483,711,0.625,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Rethinking industrial artificial intelligence: a unified foundation framework
+229,929,0.625,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+229,803,0.625,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,Efficiency Will Not Lead to Sustainable Reasoning AI
+481,872,0.6166666666666667,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+481,997,0.6166666666666667,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+229,686,0.6166666666666667,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,Energy Efficiency Considerations for Popular AI Benchmarks
+420,696,0.6166666666666667,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning","BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+433,810,0.6166666666666667,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,The AI Driving Olympics at NeurIPS 2018
+433,696,0.6166666666666667,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+484,929,0.6166666666666667,Knowledge Distillation and Enhanced Subdomain Adaptation Using Graph Convolutional Network for Resource-Constrained Bearing Fault Diagnosis,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+372,814,0.6166666666666667,Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+376,731,0.6166666666666667,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+281,865,0.6166666666666667,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,Green AI in Action: Strategic Model Selection for Ensembles in Production
+254,711,0.6166666666666667,Knowledge Distillation from Large Language Models for Household Energy Modeling,Rethinking industrial artificial intelligence: a unified foundation framework
+481,803,0.6083333333333333,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Efficiency Will Not Lead to Sustainable Reasoning AI
+481,686,0.6083333333333333,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,Energy Efficiency Considerations for Popular AI Benchmarks
+152,682,0.6083333333333333,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+152,774,0.6083333333333333,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+433,693,0.6083333333333333,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,Deep Reinforcement Learning for Conversational AI
+433,774,0.6083333333333333,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+132,910,0.6083333333333333,A Survey on Knowledge Graph-based Methods for Automated Driving,The 5th AI City Challenge
+118,945,0.6083333333333333,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+420,810,0.6083333333333333,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",The AI Driving Olympics at NeurIPS 2018
+194,865,0.6,Knowledge Informed Machine Learning using a Weibull-based Loss Function,Green AI in Action: Strategic Model Selection for Ensembles in Production
+484,911,0.6,Knowledge Distillation and Enhanced Subdomain Adaptation Using Graph Convolutional Network for Resource-Constrained Bearing Fault Diagnosis,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+226,871,0.5916666666666667,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems
+281,872,0.5916666666666667,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+127,972,0.5916666666666667,Clustering-Based Approaches for Symbolic Knowledge Extraction,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+226,654,0.5916666666666667,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Reasoning in Neurosymbolic AI
+281,755,0.5916666666666667,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+251,890,0.5916666666666667,DeepVATS: Deep Visual Analytics for Time Series,The 4th AI City Challenge
+325,731,0.5916666666666667,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+251,910,0.5833333333333334,DeepVATS: Deep Visual Analytics for Time Series,The 5th AI City Challenge
+194,755,0.5833333333333334,Knowledge Informed Machine Learning using a Weibull-based Loss Function,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+132,871,0.5833333333333334,A Survey on Knowledge Graph-based Methods for Automated Driving,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems
+281,803,0.5833333333333334,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,Efficiency Will Not Lead to Sustainable Reasoning AI
+261,615,0.5833333333333334,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
+194,872,0.5833333333333334,Knowledge Informed Machine Learning using a Weibull-based Loss Function,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+34,945,0.575,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+281,997,0.575,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+281,686,0.575,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,Energy Efficiency Considerations for Popular AI Benchmarks
+251,615,0.575,DeepVATS: Deep Visual Analytics for Time Series,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
+194,803,0.575,Knowledge Informed Machine Learning using a Weibull-based Loss Function,Efficiency Will Not Lead to Sustainable Reasoning AI
+226,938,0.575,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+226,637,0.575,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,"Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety"
+229,967,0.575,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+261,890,0.575,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,The 4th AI City Challenge
+433,682,0.575,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+376,871,0.5666666666666667,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems
+132,654,0.5666666666666667,A Survey on Knowledge Graph-based Methods for Automated Driving,Reasoning in Neurosymbolic AI
+420,644,0.5666666666666667,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Explanatory machine learning for sequential human teaching
+194,997,0.5666666666666667,Knowledge Informed Machine Learning using a Weibull-based Loss Function,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+133,972,0.5666666666666667,Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+261,910,0.5583333333333333,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,The 5th AI City Challenge
+484,814,0.5583333333333333,Knowledge Distillation and Enhanced Subdomain Adaptation Using Graph Convolutional Network for Resource-Constrained Bearing Fault Diagnosis,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+376,654,0.5583333333333333,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,Reasoning in Neurosymbolic AI
+194,686,0.5583333333333333,Knowledge Informed Machine Learning using a Weibull-based Loss Function,Energy Efficiency Considerations for Popular AI Benchmarks
+325,814,0.5583333333333333,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+420,774,0.55,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+325,575,0.55,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,Generative AI Meets Future Cities: Towards an Era of Autonomous Urban Intelligence
+376,814,0.55,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+251,865,0.55,DeepVATS: Deep Visual Analytics for Time Series,Green AI in Action: Strategic Model Selection for Ensembles in Production
+152,644,0.55,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,Explanatory machine learning for sequential human teaching
+229,711,0.55,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,Rethinking industrial artificial intelligence: a unified foundation framework
+325,871,0.55,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems
+251,755,0.5416666666666666,DeepVATS: Deep Visual Analytics for Time Series,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+429,696,0.5416666666666666,A Methodology for Designing Knowledge-Driven Missions for Robots,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+450,779,0.5416666666666666,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,AI-based evaluation of the SDGs: The case of crop detection with earth observation data
+429,774,0.5416666666666666,A Methodology for Designing Knowledge-Driven Missions for Robots,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+251,997,0.5416666666666666,DeepVATS: Deep Visual Analytics for Time Series,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+261,865,0.5416666666666666,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Green AI in Action: Strategic Model Selection for Ensembles in Production
+132,938,0.5416666666666666,A Survey on Knowledge Graph-based Methods for Automated Driving,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+322,972,0.5416666666666666,Knowledge Elicitation via Sequential Probabilistic Inference for High-Dimensional Prediction,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+450,755,0.5333333333333333,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+460,644,0.5333333333333333,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,Explanatory machine learning for sequential human teaching
+450,872,0.5333333333333333,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+34,693,0.5333333333333333,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,Deep Reinforcement Learning for Conversational AI
+251,803,0.5333333333333333,DeepVATS: Deep Visual Analytics for Time Series,Efficiency Will Not Lead to Sustainable Reasoning AI
+376,575,0.5333333333333333,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,Generative AI Meets Future Cities: Towards an Era of Autonomous Urban Intelligence
+450,865,0.5333333333333333,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Green AI in Action: Strategic Model Selection for Ensembles in Production
+376,938,0.5333333333333333,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+226,615,0.5333333333333333,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
+450,814,0.525,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+450,803,0.525,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Efficiency Will Not Lead to Sustainable Reasoning AI
+325,654,0.525,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,Reasoning in Neurosymbolic AI
+420,940,0.525,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning","Instructive artificial intelligence (AI) for human training, assistance, and explainability"
+450,686,0.525,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Energy Efficiency Considerations for Popular AI Benchmarks
+251,872,0.525,DeepVATS: Deep Visual Analytics for Time Series,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+450,753,0.525,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Affordable Artificial Intelligence -- Augmenting Farmer Knowledge with AI
+261,755,0.525,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+251,686,0.525,DeepVATS: Deep Visual Analytics for Time Series,Energy Efficiency Considerations for Popular AI Benchmarks
+152,940,0.525,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,"Instructive artificial intelligence (AI) for human training, assistance, and explainability"
+300,774,0.525,Reformulation Techniques for Automated Planning: A Systematic Review,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+450,911,0.525,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting
+132,575,0.5166666666666667,A Survey on Knowledge Graph-based Methods for Automated Driving,Generative AI Meets Future Cities: Towards an Era of Autonomous Urban Intelligence
+132,637,0.5166666666666667,A Survey on Knowledge Graph-based Methods for Automated Driving,"Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety"
+132,814,0.5166666666666667,A Survey on Knowledge Graph-based Methods for Automated Driving,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+450,997,0.5166666666666667,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+261,997,0.5166666666666667,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+147,644,0.5166666666666667,Transferring Domain Knowledge with an Adviser in Continuous Tasks,Explanatory machine learning for sequential human teaching
+483,890,0.5166666666666667,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,The 4th AI City Challenge
+300,696,0.5166666666666667,Reformulation Techniques for Automated Planning: A Systematic Review,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation"
+483,910,0.5166666666666667,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,The 5th AI City Challenge
+261,803,0.5166666666666667,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Efficiency Will Not Lead to Sustainable Reasoning AI
+264,865,0.5166666666666667,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,Green AI in Action: Strategic Model Selection for Ensembles in Production
+450,929,0.5166666666666667,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life"
+32,950,0.5166666666666667,Knowledge-driven Active Learning,Augment & Valuate : A Data Enhancement Pipeline for Data-Centric AI
+251,575,0.5166666666666667,DeepVATS: Deep Visual Analytics for Time Series,Generative AI Meets Future Cities: Towards an Era of Autonomous Urban Intelligence
+264,997,0.5083333333333333,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI
+450,711,0.5083333333333333,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Rethinking industrial artificial intelligence: a unified foundation framework
+481,890,0.5083333333333333,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,The 4th AI City Challenge
+34,940,0.5083333333333333,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,"Instructive artificial intelligence (AI) for human training, assistance, and explainability"
+429,945,0.5083333333333333,A Methodology for Designing Knowledge-Driven Missions for Robots,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI
+32,972,0.5083333333333333,Knowledge-driven Active Learning,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition
+322,711,0.5083333333333333,Knowledge Elicitation via Sequential Probabilistic Inference for High-Dimensional Prediction,Rethinking industrial artificial intelligence: a unified foundation framework
+264,755,0.5083333333333333,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models
+376,637,0.5083333333333333,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,"Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety"
+300,810,0.5083333333333333,Reformulation Techniques for Automated Planning: A Systematic Review,The AI Driving Olympics at NeurIPS 2018
+481,910,0.5083333333333333,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,The 5th AI City Challenge
+261,731,0.5083333333333333,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
+133,967,0.5,Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+133,711,0.5,Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems,Rethinking industrial artificial intelligence: a unified foundation framework
+261,686,0.5,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,Energy Efficiency Considerations for Popular AI Benchmarks
+322,967,0.5,Knowledge Elicitation via Sequential Probabilistic Inference for High-Dimensional Prediction,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+483,786,0.5,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Towards Seamless Management of AI Models in High-Performance Computing
+261,872,0.5,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models"
+264,803,0.5,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,Efficiency Will Not Lead to Sustainable Reasoning AI
+268,786,0.5,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Towards Seamless Management of AI Models in High-Performance Computing
+300,682,0.5,Reformulation Techniques for Automated Planning: A Systematic Review,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously
+147,940,0.5,Transferring Domain Knowledge with an Adviser in Continuous Tasks,"Instructive artificial intelligence (AI) for human training, assistance, and explainability"
+325,938,0.5,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming
+429,807,0.5,A Methodology for Designing Knowledge-Driven Missions for Robots,General AI Challenge - Round One: Gradual Learning
+450,575,0.5,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Generative AI Meets Future Cities: Towards an Era of Autonomous Urban Intelligence
+460,940,0.5,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,"Instructive artificial intelligence (AI) for human training, assistance, and explainability"
+450,967,0.5,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT
+15,779,0.5,Towards the Development of a Rule-based Drought Early Warning Expert Systems using Indigenous Knowledge,AI-based evaluation of the SDGs: The case of crop detection with earth observation data
+15,753,0.5,Towards the Development of a Rule-based Drought Early Warning Expert Systems using Indigenous Knowledge,Affordable Artificial Intelligence -- Augmenting Farmer Knowledge with AI

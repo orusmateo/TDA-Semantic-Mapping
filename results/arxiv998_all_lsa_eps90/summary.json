@@ -1,0 +1,468 @@
+{
+  "args": {
+    "corpus": "data/legacy_arxiv998/corpus.csv",
+    "embeddings": null,
+    "representation": "lsa",
+    "subset": "all",
+    "eps_quantile": 0.9,
+    "min_samples": 5,
+    "n_perm": 1000,
+    "grid_perm": 200,
+    "min_balance": 0.5,
+    "min_per_field": 3,
+    "persistence": 0.5,
+    "legacy_check": false,
+    "out": "results/arxiv998_all_lsa_eps90"
+  },
+  "relevance_full_corpus": {
+    "n": 998,
+    "field_a": 500,
+    "field_b": 498,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 0.152,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 0.707,
+    "dual": 8
+  },
+  "analysed": {
+    "n": 998,
+    "field_a": 500,
+    "field_b": 498,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 0.152,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 0.707,
+    "dual": 8
+  },
+  "criteria": {
+    "min_size": 8,
+    "min_per_field": 3,
+    "min_balance": 0.5,
+    "alpha": 0.05
+  },
+  "primary_setting": {
+    "lens": "umap_seed42",
+    "n_cubes": 10,
+    "overlap": 0.5
+  },
+  "persistence_threshold": 0.5,
+  "knn_segregation": {
+    "k": 10,
+    "observed_same_label": 0.8853707414829659,
+    "null_mean": 0.4996284569138277,
+    "null_sd": 0.006785709131659969,
+    "p_more_segregated": 0.000999000999000999,
+    "n_perm": 1000
+  },
+  "cosine": {
+    "cross_field_max": 0.7154249049351622,
+    "cross_field_median": 0.07245574064851013,
+    "within_a_median": 0.10898400288082583,
+    "nearest_b_for_each_a_median": 0.39281084081707646
+  },
+  "dbscan": {
+    "eps": 0.5820807302773529,
+    "eps_quantile": 0.9,
+    "min_samples": 5
+  },
+  "grid": {
+    "n_settings": 120,
+    "segregation_index_median": 0.8708218019442273,
+    "segregation_index_range": [
+      0.7465015498031086,
+      0.992112658806514
+    ],
+    "settings_less_mixed_than_chance_p05": 120,
+    "bridge_nodes_median": 3.5,
+    "legacy_bridge_nodes_median": 43.0,
+    "coverage_median": 0.9529058116232465,
+    "extra_clusters_median": 11.0,
+    "corr_legacy_bridges_vs_nodes": 0.8366595250921491
+  },
+  "primary_graph": {
+    "nodes": 81,
+    "edges": 237,
+    "components": 2,
+    "coverage": 0.9589178356713427,
+    "extra_clusters": 8,
+    "classes": {
+      "A-enriched": 40,
+      "B-enriched": 30,
+      "small": 5,
+      "bridge": 4,
+      "mixed": 2
+    },
+    "legacy_bridge_nodes": 60,
+    "permutation": {
+      "observed": 0.10540501490925352,
+      "null_mean": 0.814487394897917,
+      "null_sd": 0.02327005402125992,
+      "p_less_mixed": 0.000999000999000999,
+      "segregation_index": 0.8705872975204676,
+      "n_perm": 1000
+    }
+  },
+  "persistence": {
+    "docs": 50,
+    "docs_field_a": 23,
+    "docs_field_b": 27,
+    "pairs": 120,
+    "doc_freq_quantiles": {
+      "0.5": 0.016666666666666666,
+      "0.9": 0.39166666666666666,
+      "0.99": 0.7757499999999994
+    }
+  },
+  "bridge_groups": [
+    {
+      "size": 26,
+      "field_a": 15,
+      "field_b": 11,
+      "on_topic_share": 0.11538461538461539,
+      "distinctive_terms": [
+        [
+          "learning",
+          0.0758
+        ],
+        [
+          "continual",
+          0.066
+        ],
+        [
+          "memory",
+          0.0606
+        ],
+        [
+          "continual learning",
+          0.0596
+        ],
+        [
+          "reinforcement",
+          0.0545
+        ],
+        [
+          "reinforcement learning",
+          0.0539
+        ],
+        [
+          "task",
+          0.0507
+        ],
+        [
+          "tasks",
+          0.0412
+        ],
+        [
+          "deep reinforcement",
+          0.0347
+        ],
+        [
+          "rl",
+          0.0292
+        ],
+        [
+          "reward",
+          0.0288
+        ],
+        [
+          "simulation",
+          0.0286
+        ]
+      ],
+      "titles": [
+        "[Field_A, off-topic] Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values",
+        "[Field_A, off-topic] Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment",
+        "[Field_A, off-topic] Transferring Domain Knowledge with an Adviser in Continuous Tasks",
+        "[Field_A, off-topic] Leveraging human knowledge in tabular reinforcement learning: A study of human subjects",
+        "[Field_A, off-topic] Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays",
+        "[Field_A, off-topic] Densely Distilling Cumulative Knowledge for Continual Learning",
+        "[Field_A, off-topic] Continual Learning via Inter-Task Synaptic Mapping",
+        "[Field_A, off-topic] Enhanced Knowledge Selection for Grounded Dialogues via Document Semantic Graphs",
+        "[Field_A, off-topic] KIF: Knowledge Identification and Fusion for Language Model Continual Learning",
+        "[Field_A, off-topic] Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations",
+        "[Field_A, off-topic] Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",
+        "[Field_A, off-topic] Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization",
+        "[Field_A, off-topic] Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft",
+        "[Field_A, off-topic] Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks",
+        "[Field_A, off-topic] Information-Theoretic Dual Memory System for Continual Learning",
+        "[Field_B, off-topic] BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization",
+        "[Field_B, off-topic] MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems",
+        "[Field_B] Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay",
+        "[Field_B] Explainability in reinforcement learning: perspective and position",
+        "[Field_B, off-topic] Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously",
+        "[Field_B, off-topic] Deep Reinforcement Learning for Conversational AI",
+        "[Field_B, off-topic] BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation",
+        "[Field_B, off-topic] Improving GenIR Systems Based on User Feedback",
+        "[Field_B] Sustainable Artificial Intelligence through Continual Learning",
+        "[Field_B, off-topic] The AI Driving Olympics at NeurIPS 2018",
+        "[Field_B, off-topic] Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI"
+      ]
+    },
+    {
+      "size": 9,
+      "field_a": 4,
+      "field_b": 5,
+      "on_topic_share": 0.6666666666666666,
+      "distinctive_terms": [
+        [
+          "llms",
+          0.1221
+        ],
+        [
+          "conflicts",
+          0.0694
+        ],
+        [
+          "models",
+          0.0633
+        ],
+        [
+          "language models",
+          0.0572
+        ],
+        [
+          "indigeneity",
+          0.0566
+        ],
+        [
+          "judgments",
+          0.0565
+        ],
+        [
+          "editing",
+          0.0564
+        ],
+        [
+          "large language",
+          0.0549
+        ],
+        [
+          "large",
+          0.0487
+        ],
+        [
+          "praise",
+          0.0472
+        ],
+        [
+          "deceptive",
+          0.0438
+        ],
+        [
+          "knowledge conflicts",
+          0.0434
+        ]
+      ],
+      "titles": [
+        "[Field_A] Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios",
+        "[Field_A, off-topic] Knowledge Conflicts for LLMs: A Survey",
+        "[Field_A, off-topic] How Well Can Knowledge Edit Methods Edit Perplexing Knowledge?",
+        "[Field_A, off-topic] Core Knowledge Deficits in Multi-Modal Language Models",
+        "[Field_B] Pro-AI Bias in Large Language Models",
+        "[Field_B] Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety",
+        "[Field_B] What does AI consider praiseworthy?",
+        "[Field_B] Unmasking the Shadows of AI: Investigating Deceptive Capabilities in Large Language Models",
+        "[Field_B] Street-Level AI: Are Large Language Models Ready for Real-World Judgments?"
+      ]
+    },
+    {
+      "size": 8,
+      "field_a": 3,
+      "field_b": 5,
+      "on_topic_share": 0.5,
+      "distinctive_terms": [
+        [
+          "neural",
+          0.1512
+        ],
+        [
+          "neural networks",
+          0.1133
+        ],
+        [
+          "networks",
+          0.1081
+        ],
+        [
+          "symbolic",
+          0.0962
+        ],
+        [
+          "neurosymbolic",
+          0.0792
+        ],
+        [
+          "neuro symbolic",
+          0.0668
+        ],
+        [
+          "neuro",
+          0.0668
+        ],
+        [
+          "batch",
+          0.0594
+        ],
+        [
+          "learning",
+          0.0584
+        ],
+        [
+          "neurosymbolic ai",
+          0.0577
+        ],
+        [
+          "deep",
+          0.057
+        ],
+        [
+          "parallel",
+          0.0562
+        ]
+      ],
+      "titles": [
+        "[Field_A, off-topic] Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning",
+        "[Field_A, off-topic] The Parallel Knowledge Gradient Method for Batch Bayesian Optimization",
+        "[Field_A, off-topic] PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks",
+        "[Field_B] Reasoning in Neurosymbolic AI",
+        "[Field_B] Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI",
+        "[Field_B] Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks",
+        "[Field_B, off-topic] Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming",
+        "[Field_B] Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition"
+      ]
+    },
+    {
+      "size": 3,
+      "field_a": 1,
+      "field_b": 2,
+      "on_topic_share": 0.3333333333333333,
+      "distinctive_terms": [
+        [
+          "multi agent",
+          0.1825
+        ],
+        [
+          "agent",
+          0.1823
+        ],
+        [
+          "planning",
+          0.1214
+        ],
+        [
+          "agents",
+          0.1147
+        ],
+        [
+          "multi",
+          0.1138
+        ],
+        [
+          "arc",
+          0.1122
+        ],
+        [
+          "advanced ai",
+          0.088
+        ],
+        [
+          "path planning",
+          0.0853
+        ],
+        [
+          "data collection",
+          0.0798
+        ],
+        [
+          "ai agents",
+          0.0779
+        ],
+        [
+          "advanced",
+          0.0718
+        ],
+        [
+          "data",
+          0.0716
+        ]
+      ],
+      "titles": [
+        "[Field_A, off-topic] Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR",
+        "[Field_B] Multi-Agent Risks from Advanced AI",
+        "[Field_B, off-topic] Sensorium Arc: AI Agent System for Oceanic Data Exploration and Interactive Eco-Art"
+      ]
+    }
+  ],
+  "controls": {
+    "field_a_off_topic_in_bridges": {
+      "table": [
+        [
+          22,
+          402
+        ],
+        [
+          1,
+          75
+        ]
+      ],
+      "odds_ratio": 4.104,
+      "p": 0.2294738811050705
+    },
+    "dual_lexicon_in_bridges": {
+      "table": [
+        [
+          0,
+          8
+        ],
+        [
+          50,
+          940
+        ]
+      ],
+      "odds_ratio": 0.0,
+      "p": 1.0
+    },
+    "dual_lexicon_docs": [
+      {
+        "title": "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "label": "Field_A",
+        "bridge_freq": 0.30833333333333335
+      },
+      {
+        "title": "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Harnessing the Power of Artificial Intelligence to Vitalize Endangered Indigenous Languages: Technologies and Experiences",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Exploring Multimodal Foundation AI and Expert-in-the-Loop for Sustainable Management of Wild Salmon Fisheries in Indigenous Rivers",
+        "label": "Field_A",
+        "bridge_freq": 0.24166666666666667
+      },
+      {
+        "title": "What's Not on the Plate? Rethinking Food Computing through Indigenous Indian Datasets",
+        "label": "Field_A",
+        "bridge_freq": 0.225
+      },
+      {
+        "title": "Uncovering Latent Connections in Indigenous Heritage: Semantic Pipelines for Cultural Preservation in Brazil",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "An Elemental Ethics for Artificial Intelligence: Water as Resistance Within AI's Value Chain",
+        "label": "Field_B",
+        "bridge_freq": 0.0
+      }
+    ]
+  }
+}

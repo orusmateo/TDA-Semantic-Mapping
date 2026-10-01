@@ -1,0 +1,51 @@
+cosine,title_a,title_b,a_on_topic
+0.7154249049351622,An Open Knowledge Graph-Based Approach for Mapping Concepts and Requirements between the EU AI Act and International Standards,The Journey to Trustworthy AI: Pursuit of Pragmatic Frameworks,False
+0.7147844523892704,Information-Theoretic Dual Memory System for Continual Learning,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems,False
+0.6966936991939428,Knowledge Distillation from Large Language Models for Household Energy Modeling,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models,False
+0.6923215178724117,Information-Theoretic Dual Memory System for Continual Learning,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay,False
+0.6843452578093839,Continual Learning via Inter-Task Synaptic Mapping,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems,False
+0.679344226269098,Densely Distilling Cumulative Knowledge for Continual Learning,MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems,False
+0.6772378383456783,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Deep Reinforcement Learning for Conversational AI,False
+0.6698832766463373,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI,False
+0.6688881253702877,Neural Channel Knowledge Map Assisted Scheduling Optimization of Active IRSs in Multi-User Systems,Rate-Splitting for Cell-Free Massive MIMO: Performance Analysis and Generative AI Approach,False
+0.6628225436812802,Densely Distilling Cumulative Knowledge for Continual Learning,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay,False
+0.6628170495967292,An Open Knowledge Graph-Based Approach for Mapping Concepts and Requirements between the EU AI Act and International Standards,An Analysis of the New EU AI Act and A Proposed Standardization Framework for Machine Learning Fairness,False
+0.6535244067720264,An Open Knowledge Graph-Based Approach for Mapping Concepts and Requirements between the EU AI Act and International Standards,Functional trustworthiness of AI systems by statistically valid testing,False
+0.6465131380917578,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Deep Reinforcement Learning for Conversational AI,False
+0.646133173928537,Neural Channel Knowledge Map Assisted Scheduling Optimization of Active IRSs in Multi-User Systems,AI-Empowered RIS-Assisted Networks: CV-Enabled RIS Selection and DNN-Enabled Transmission,False
+0.639969599251808,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI,False
+0.6327180279766286,Where Journalism Silenced Voices: Exploring Discrimination in the Representation of Indigenous Communities in Bangladesh,Exploring AI Futures Through Fictional News Articles,True
+0.617574798248773,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay,False
+0.6160423847836858,An Open Knowledge Graph-Based Approach for Mapping Concepts and Requirements between the EU AI Act and International Standards,Mapping Industry Practices to the EU AI Act's GPAI Code of Practice Safety and Security Measures,False
+0.6153162518837517,Knowledge Representation for Robots through Human-Robot Interaction,AI-HRI 2021 Proceedings,False
+0.6133232462684045,SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge,Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis,False
+0.6084569664161844,EMERSK -- Explainable Multimodal Emotion Recognition with Situational Knowledge,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation,False
+0.6072152677366157,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,The AI Driving Olympics at NeurIPS 2018,False
+0.6043179088944849,"Depressive, Drug Abusive, or Informative: Knowledge-aware Study of News Exposure during COVID-19 Outbreak",Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for COVID-19 Screening With Chest Radiography,False
+0.6038061465800917,Foundations of Explainable Knowledge-Enabled Systems,Study on the Helpfulness of Explainable Artificial Intelligence,False
+0.6037114967113426,SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval,Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models,False
+0.603531234411165,Information-Theoretic Dual Memory System for Continual Learning,Improving GenIR Systems Based on User Feedback,False
+0.6025453368571211,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems,False
+0.5959192465417245,AquiLLM: a RAG Tool for Capturing Tacit Knowledge in Research Groups,Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models,False
+0.5911977519636444,Contextual Knowledge Pursuit for Faithful Visual Synthesis,Foundations of GenIR,False
+0.5900964722577264,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation",False
+0.5893819395403149,Continual Learning via Inter-Task Synaptic Mapping,Mitigating Catastrophic Forgetting and Mode Collapse in Text-to-Image Diffusion via Latent Replay,False
+0.5840297956967296,Foundations of Explainable Knowledge-Enabled Systems,Explaining AI Decisions: Towards Achieving Human-Centered Explainability in Smart Home Environments,False
+0.5834606101439489,Who is this Explanation for? Human Intelligence and Knowledge Graphs for eXplainable AI,Explainable AI And Visual Reasoning: Insights From Radiology,False
+0.582204568051591,A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier,Front-propagation Algorithm: Explainable AI Technique for Extracting Linear Function Approximations from Neural Networks,False
+0.5815243526807112,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,"Replication Markets: Results, Lessons, Challenges and Opportunities in AI Replication",False
+0.5768264168291918,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Green AI in Action: Strategic Model Selection for Ensembles in Production,False
+0.576163813962708,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming,False
+0.5753739958128032,Neural Channel Knowledge Map Assisted Scheduling Optimization of Active IRSs in Multi-User Systems,COST CA20120 INTERACT Framework of Artificial Intelligence Based Channel Modeling,False
+0.5750239981936808,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI,False
+0.5715180109053994,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI,False
+0.5681651148562555,An Open Knowledge Graph-Based Approach for Mapping Concepts and Requirements between the EU AI Act and International Standards,Towards a Framework for Supporting the Ethical and Regulatory Certification of AI Systems,False
+0.5629772773185961,Neural Channel Knowledge Map Assisted Scheduling Optimization of Active IRSs in Multi-User Systems,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition,False
+0.5603103900388214,Neural Channel Knowledge Map Assisted Scheduling Optimization of Active IRSs in Multi-User Systems,Artificial Intelligence Empowered Channel Prediction: A New Paradigm for Propagation Channel Modeling,False
+0.5602158380628948,Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios,Pro-AI Bias in Large Language Models,True
+0.5595944873769721,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models,False
+0.5594369088050933,Results of multi-agent system and ontology to manage ideas and represent knowledge in a challenge of creativity,Federated AI lets a team imagine together: Federated Learning of GANs,False
+0.5555014455482945,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT,False
+0.5536520889446329,Sentiment Analysis On Indian Indigenous Languages: A Review On Multilingual Opinion Mining,TopiCLEAR: Topic extraction by CLustering Embeddings with Adaptive dimensional Reduction,True
+0.5531742957255359,Who is this Explanation for? Human Intelligence and Knowledge Graphs for eXplainable AI,Can AI Explanations Make You Change Your Mind?,False
+0.5526499262460408,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition,False

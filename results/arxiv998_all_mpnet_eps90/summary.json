@@ -1,0 +1,375 @@
+{
+  "args": {
+    "corpus": "data/legacy_arxiv998/corpus.csv",
+    "embeddings": "data/legacy_arxiv998/embeddings_mpnet.npy",
+    "representation": "mpnet",
+    "subset": "all",
+    "eps_quantile": 0.9,
+    "min_samples": 5,
+    "n_perm": 1000,
+    "grid_perm": 200,
+    "min_balance": 0.5,
+    "min_per_field": 3,
+    "persistence": 0.5,
+    "legacy_check": false,
+    "out": "results/arxiv998_all_mpnet_eps90"
+  },
+  "relevance_full_corpus": {
+    "n": 998,
+    "field_a": 500,
+    "field_b": 498,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 0.152,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 0.707,
+    "dual": 8
+  },
+  "analysed": {
+    "n": 998,
+    "field_a": 500,
+    "field_b": 498,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 0.152,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 0.707,
+    "dual": 8
+  },
+  "criteria": {
+    "min_size": 8,
+    "min_per_field": 3,
+    "min_balance": 0.5,
+    "alpha": 0.05
+  },
+  "primary_setting": {
+    "lens": "umap_seed42",
+    "n_cubes": 10,
+    "overlap": 0.5
+  },
+  "persistence_threshold": 0.5,
+  "knn_segregation": {
+    "k": 10,
+    "observed_same_label": 0.8870741482965931,
+    "null_mean": 0.4992158316633266,
+    "null_sd": 0.0059781420516278145,
+    "p_more_segregated": 0.000999000999000999,
+    "n_perm": 1000
+  },
+  "cosine": {
+    "cross_field_max": 0.8774325251579285,
+    "cross_field_median": 0.20291900634765625,
+    "within_a_median": 0.2230217158794403,
+    "nearest_b_for_each_a_median": 0.5264993906021118
+  },
+  "dbscan": {
+    "eps": 0.48519715666770935,
+    "eps_quantile": 0.9,
+    "min_samples": 5
+  },
+  "grid": {
+    "n_settings": 120,
+    "segregation_index_median": 0.8543812819888879,
+    "segregation_index_range": [
+      0.7466556948230068,
+      0.9862064878864095
+    ],
+    "settings_less_mixed_than_chance_p05": 120,
+    "bridge_nodes_median": 4.0,
+    "legacy_bridge_nodes_median": 42.0,
+    "coverage_median": 0.9468937875751503,
+    "extra_clusters_median": 5.0,
+    "corr_legacy_bridges_vs_nodes": 0.8723717066559766
+  },
+  "primary_graph": {
+    "nodes": 84,
+    "edges": 240,
+    "components": 3,
+    "coverage": 0.9509018036072144,
+    "extra_clusters": 6,
+    "classes": {
+      "A-enriched": 37,
+      "B-enriched": 33,
+      "small": 8,
+      "bridge": 6
+    },
+    "legacy_bridge_nodes": 58,
+    "permutation": {
+      "observed": 0.11724203037663422,
+      "null_mean": 0.814896872370254,
+      "null_sd": 0.023315600649202923,
+      "p_less_mixed": 0.000999000999000999,
+      "segregation_index": 0.8561265426929207,
+      "n_perm": 1000
+    }
+  },
+  "persistence": {
+    "docs": 74,
+    "docs_field_a": 40,
+    "docs_field_b": 34,
+    "pairs": 282,
+    "doc_freq_quantiles": {
+      "0.5": 0.016666666666666666,
+      "0.9": 0.3858333333333339,
+      "0.99": 0.7416666666666667
+    }
+  },
+  "bridge_groups": [
+    {
+      "size": 48,
+      "field_a": 23,
+      "field_b": 25,
+      "on_topic_share": 0.22916666666666666,
+      "distinctive_terms": [
+        [
+          "energy",
+          0.0622
+        ],
+        [
+          "data",
+          0.0378
+        ],
+        [
+          "learning",
+          0.0305
+        ],
+        [
+          "machine learning",
+          0.0279
+        ],
+        [
+          "symbolic",
+          0.0258
+        ],
+        [
+          "neural",
+          0.0234
+        ],
+        [
+          "machine",
+          0.0208
+        ],
+        [
+          "deep",
+          0.0204
+        ],
+        [
+          "carbon",
+          0.0197
+        ],
+        [
+          "consumption",
+          0.0195
+        ],
+        [
+          "neurosymbolic",
+          0.0191
+        ],
+        [
+          "networks",
+          0.0191
+        ]
+      ],
+      "titles": [
+        "[Field_A] Towards the Development of a Rule-based Drought Early Warning Expert Systems using Indigenous Knowledge",
+        "[Field_A, off-topic] Knowledge-driven Active Learning",
+        "[Field_A, off-topic] Clustering-Based Approaches for Symbolic Knowledge Extraction",
+        "[Field_A, off-topic] A Survey on Knowledge Graph-based Methods for Automated Driving",
+        "[Field_A, off-topic] Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems",
+        "[Field_A, off-topic] Knowledge Informed Machine Learning using a Weibull-based Loss Function",
+        "[Field_A, off-topic] Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning",
+        "[Field_A, off-topic] HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services",
+        "[Field_A, off-topic] DeepVATS: Deep Visual Analytics for Time Series",
+        "[Field_A, off-topic] Knowledge Distillation from Large Language Models for Household Energy Modeling",
+        "[Field_A, off-topic] Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning",
+        "[Field_A, off-topic] COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data",
+        "[Field_A, off-topic] Data Driven Chiller Plant Energy Optimization with Domain Knowledge",
+        "[Field_A, off-topic] XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines",
+        "[Field_A, off-topic] Knowledge Elicitation via Sequential Probabilistic Inference for High-Dimensional Prediction",
+        "[Field_A, off-topic] Towards Infusing Auxiliary Knowledge for Distracted Driver Detection",
+        "[Field_A, off-topic] Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph",
+        "[Field_A, off-topic] Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems",
+        "[Field_A, off-topic] An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice",
+        "[Field_A, off-topic] Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees",
+        "[Field_A, off-topic] PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks",
+        "[Field_A, off-topic] Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency",
+        "[Field_A, off-topic] Knowledge Distillation and Enhanced Subdomain Adaptation Using Graph Convolutional Network for Resource-Constrained Bearing Fault Diagnosis",
+        "[Field_B] Generative AI Meets Future Cities: Towards an Era of Autonomous Urban Intelligence",
+        "[Field_B, off-topic] Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation",
+        "[Field_B] Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety",
+        "[Field_B] Reasoning in Neurosymbolic AI",
+        "[Field_B, off-topic] Energy Efficiency Considerations for Popular AI Benchmarks",
+        "[Field_B, off-topic] Rethinking industrial artificial intelligence: a unified foundation framework",
+        "[Field_B] Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI",
+        "[Field_B] Affordable Artificial Intelligence -- Augmenting Farmer Knowledge with AI",
+        "[Field_B] AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models",
+        "[Field_B, off-topic] AI-based evaluation of the SDGs: The case of crop detection with earth observation data",
+        "[Field_B, off-topic] Towards Seamless Management of AI Models in High-Performance Computing",
+        "[Field_B] Efficiency Will Not Lead to Sustainable Reasoning AI",
+        "[Field_B, off-topic] Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results",
+        "[Field_B, off-topic] Green AI in Action: Strategic Model Selection for Ensembles in Production",
+        "[Field_B, off-topic] Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems",
+        "[Field_B, off-topic] Making AI Less \"Thirsty\": Uncovering and Addressing the Secret Water Footprint of AI Models",
+        "[Field_B, off-topic] The 4th AI City Challenge",
+        "[Field_B, off-topic] The 5th AI City Challenge",
+        "[Field_B] The Powerful Use of AI in the Energy Sector: Intelligent Forecasting",
+        "[Field_B] Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life",
+        "[Field_B, off-topic] Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming",
+        "[Field_B, off-topic] Augment & Valuate : A Data Enhancement Pipeline for Data-Centric AI",
+        "[Field_B, off-topic] Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT",
+        "[Field_B] Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition",
+        "[Field_B, off-topic] Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI"
+      ]
+    },
+    {
+      "size": 22,
+      "field_a": 13,
+      "field_b": 9,
+      "on_topic_share": 0.09090909090909091,
+      "distinctive_terms": [
+        [
+          "reinforcement learning",
+          0.0584
+        ],
+        [
+          "reinforcement",
+          0.0572
+        ],
+        [
+          "human",
+          0.0555
+        ],
+        [
+          "learning",
+          0.0511
+        ],
+        [
+          "planning",
+          0.0452
+        ],
+        [
+          "robot",
+          0.0425
+        ],
+        [
+          "deep reinforcement",
+          0.0412
+        ],
+        [
+          "embodied",
+          0.0399
+        ],
+        [
+          "agent",
+          0.0365
+        ],
+        [
+          "task",
+          0.0359
+        ],
+        [
+          "tasks",
+          0.0345
+        ],
+        [
+          "reward",
+          0.0342
+        ]
+      ],
+      "titles": [
+        "[Field_A, off-topic] Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values",
+        "[Field_A, off-topic] LLM-guided Task and Motion Planning using Knowledge-based Reasoning",
+        "[Field_A, off-topic] Knowledge Representation for Robots through Human-Robot Interaction",
+        "[Field_A, off-topic] Transferring Domain Knowledge with an Adviser in Continuous Tasks",
+        "[Field_A, off-topic] Leveraging human knowledge in tabular reinforcement learning: A study of human subjects",
+        "[Field_A, off-topic] Reformulation Techniques for Automated Planning: A Systematic Review",
+        "[Field_A, off-topic] Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations",
+        "[Field_A, off-topic] Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",
+        "[Field_A, off-topic] A Methodology for Designing Knowledge-Driven Missions for Robots",
+        "[Field_A, off-topic] Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR",
+        "[Field_A, off-topic] Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization",
+        "[Field_A, off-topic] Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft",
+        "[Field_A, off-topic] Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks",
+        "[Field_B] Explanatory machine learning for sequential human teaching",
+        "[Field_B, off-topic] Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously",
+        "[Field_B, off-topic] Deep Reinforcement Learning for Conversational AI",
+        "[Field_B, off-topic] BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation",
+        "[Field_B, off-topic] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
+        "[Field_B, off-topic] General AI Challenge - Round One: Gradual Learning",
+        "[Field_B, off-topic] The AI Driving Olympics at NeurIPS 2018",
+        "[Field_B] Instructive artificial intelligence (AI) for human training, assistance, and explainability",
+        "[Field_B, off-topic] Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI"
+      ]
+    }
+  ],
+  "controls": {
+    "field_a_off_topic_in_bridges": {
+      "table": [
+        [
+          39,
+          385
+        ],
+        [
+          1,
+          75
+        ]
+      ],
+      "odds_ratio": 7.597,
+      "p": 0.019042927018255093
+    },
+    "dual_lexicon_in_bridges": {
+      "table": [
+        [
+          0,
+          8
+        ],
+        [
+          74,
+          916
+        ]
+      ],
+      "odds_ratio": 0.0,
+      "p": 1.0
+    },
+    "dual_lexicon_docs": [
+      {
+        "title": "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "label": "Field_A",
+        "bridge_freq": 0.10833333333333334
+      },
+      {
+        "title": "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "label": "Field_A",
+        "bridge_freq": 0.10833333333333334
+      },
+      {
+        "title": "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "label": "Field_A",
+        "bridge_freq": 0.13333333333333333
+      },
+      {
+        "title": "Harnessing the Power of Artificial Intelligence to Vitalize Endangered Indigenous Languages: Technologies and Experiences",
+        "label": "Field_A",
+        "bridge_freq": 0.13333333333333333
+      },
+      {
+        "title": "Exploring Multimodal Foundation AI and Expert-in-the-Loop for Sustainable Management of Wild Salmon Fisheries in Indigenous Rivers",
+        "label": "Field_A",
+        "bridge_freq": 0.10833333333333334
+      },
+      {
+        "title": "What's Not on the Plate? Rethinking Food Computing through Indigenous Indian Datasets",
+        "label": "Field_A",
+        "bridge_freq": 0.075
+      },
+      {
+        "title": "Uncovering Latent Connections in Indigenous Heritage: Semantic Pipelines for Cultural Preservation in Brazil",
+        "label": "Field_A",
+        "bridge_freq": 0.09166666666666666
+      },
+      {
+        "title": "An Elemental Ethics for Artificial Intelligence: Water as Resistance Within AI's Value Chain",
+        "label": "Field_B",
+        "bridge_freq": 0.058333333333333334
+      }
+    ]
+  }
+}

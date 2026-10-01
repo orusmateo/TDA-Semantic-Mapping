@@ -1,0 +1,174 @@
+{
+  "args": {
+    "corpus": "data/legacy_arxiv998/corpus.csv",
+    "embeddings": "data/legacy_arxiv998/embeddings_mpnet.npy",
+    "representation": "mpnet",
+    "subset": "on_topic",
+    "eps_quantile": 0.9,
+    "min_samples": 5,
+    "n_perm": 1000,
+    "grid_perm": 200,
+    "min_balance": 0.5,
+    "min_per_field": 3,
+    "persistence": 0.5,
+    "legacy_check": false,
+    "out": "results/arxiv998_ontopic_mpnet_eps90"
+  },
+  "relevance_full_corpus": {
+    "n": 998,
+    "field_a": 500,
+    "field_b": 498,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 0.152,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 0.707,
+    "dual": 8
+  },
+  "analysed": {
+    "n": 428,
+    "field_a": 76,
+    "field_b": 352,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 1.0,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 1.0,
+    "dual": 8
+  },
+  "criteria": {
+    "min_size": 8,
+    "min_per_field": 3,
+    "min_balance": 0.5,
+    "alpha": 0.05
+  },
+  "primary_setting": {
+    "lens": "umap_seed42",
+    "n_cubes": 10,
+    "overlap": 0.5
+  },
+  "persistence_threshold": 0.5,
+  "knn_segregation": {
+    "k": 10,
+    "observed_same_label": 0.969392523364486,
+    "null_mean": 0.7081219626168225,
+    "null_sd": 0.012876389683831485,
+    "p_more_segregated": 0.000999000999000999,
+    "n_perm": 1000
+  },
+  "cosine": {
+    "cross_field_max": 0.6884845495223999,
+    "cross_field_median": 0.15736959874629974,
+    "within_a_median": 0.2656877040863037,
+    "nearest_b_for_each_a_median": 0.4185129702091217
+  },
+  "dbscan": {
+    "eps": 0.44405901432037354,
+    "eps_quantile": 0.9,
+    "min_samples": 5
+  },
+  "grid": {
+    "n_settings": 120,
+    "segregation_index_median": 1.0,
+    "segregation_index_range": [
+      0.9339744438777828,
+      1.0
+    ],
+    "settings_less_mixed_than_chance_p05": 120,
+    "bridge_nodes_median": 0.0,
+    "legacy_bridge_nodes_median": 0.0,
+    "coverage_median": 0.9147196261682242,
+    "extra_clusters_median": 0.0,
+    "corr_legacy_bridges_vs_nodes": -0.24893696519025288
+  },
+  "primary_graph": {
+    "nodes": 63,
+    "edges": 170,
+    "components": 2,
+    "coverage": 0.9182242990654206,
+    "extra_clusters": 0,
+    "classes": {
+      "B-enriched": 28,
+      "mixed": 16,
+      "A-enriched": 10,
+      "small": 9
+    },
+    "legacy_bridge_nodes": 0,
+    "permutation": {
+      "observed": 0.0,
+      "null_mean": 0.6889632888998518,
+      "null_sd": 0.04087349935470003,
+      "p_less_mixed": 0.000999000999000999,
+      "segregation_index": 1.0,
+      "n_perm": 1000
+    }
+  },
+  "persistence": {
+    "docs": 0,
+    "docs_field_a": 0,
+    "docs_field_b": 0,
+    "pairs": 0,
+    "doc_freq_quantiles": {
+      "0.5": 0.0,
+      "0.9": 0.016666666666666666,
+      "0.99": 0.039416666666666815
+    }
+  },
+  "bridge_groups": [],
+  "controls": {
+    "dual_lexicon_in_bridges": {
+      "table": [
+        [
+          0,
+          8
+        ],
+        [
+          0,
+          420
+        ]
+      ],
+      "odds_ratio": null,
+      "p": 1.0
+    },
+    "dual_lexicon_docs": [
+      {
+        "title": "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "label": "Field_A",
+        "bridge_freq": 0.041666666666666664
+      },
+      {
+        "title": "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "label": "Field_A",
+        "bridge_freq": 0.041666666666666664
+      },
+      {
+        "title": "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "label": "Field_A",
+        "bridge_freq": 0.008333333333333333
+      },
+      {
+        "title": "Harnessing the Power of Artificial Intelligence to Vitalize Endangered Indigenous Languages: Technologies and Experiences",
+        "label": "Field_A",
+        "bridge_freq": 0.016666666666666666
+      },
+      {
+        "title": "Exploring Multimodal Foundation AI and Expert-in-the-Loop for Sustainable Management of Wild Salmon Fisheries in Indigenous Rivers",
+        "label": "Field_A",
+        "bridge_freq": 0.03333333333333333
+      },
+      {
+        "title": "What's Not on the Plate? Rethinking Food Computing through Indigenous Indian Datasets",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Uncovering Latent Connections in Indigenous Heritage: Semantic Pipelines for Cultural Preservation in Brazil",
+        "label": "Field_A",
+        "bridge_freq": 0.016666666666666666
+      },
+      {
+        "title": "An Elemental Ethics for Artificial Intelligence: Water as Resistance Within AI's Value Chain",
+        "label": "Field_B",
+        "bridge_freq": 0.041666666666666664
+      }
+    ]
+  }
+}

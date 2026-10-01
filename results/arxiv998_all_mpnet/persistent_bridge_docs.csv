@@ -1,0 +1,10 @@
+bridge_freq,label,on_topic,dual,title,url
+0.6,Field_A,False,False,Knowledge Engineering using Large Language Models,http://arxiv.org/abs/2310.00637v1
+0.6,Field_B,False,False,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming,http://arxiv.org/abs/2304.09276v2
+0.6,Field_B,True,False,Reasoning in Neurosymbolic AI,http://arxiv.org/abs/2505.20313v1
+0.5916666666666667,Field_A,False,False,Proceedings of the Second International Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR 2025),http://arxiv.org/abs/2511.09575v2
+0.5916666666666667,Field_B,False,False,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems,http://arxiv.org/abs/2205.01128v1
+0.5833333333333334,Field_B,True,False,"Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety",http://arxiv.org/abs/2312.06798v1
+0.5833333333333334,Field_A,False,False,Proceedings of the First International Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR 2024),http://arxiv.org/abs/2410.05339v2
+0.5833333333333334,Field_A,False,False,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,http://arxiv.org/abs/1912.00512v2
+0.5333333333333333,Field_B,True,False,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI,http://arxiv.org/abs/2401.01040v1

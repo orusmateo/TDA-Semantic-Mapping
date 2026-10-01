@@ -1,0 +1,281 @@
+{
+  "args": {
+    "corpus": "data/legacy_arxiv998/corpus.csv",
+    "embeddings": "data/legacy_arxiv998/embeddings_mpnet.npy",
+    "representation": "mpnet",
+    "subset": "all",
+    "eps_quantile": 0.5,
+    "min_samples": 5,
+    "n_perm": 1000,
+    "grid_perm": 200,
+    "min_balance": 0.5,
+    "min_per_field": 3,
+    "persistence": 0.5,
+    "legacy_check": true,
+    "out": "results/arxiv998_all_mpnet"
+  },
+  "relevance_full_corpus": {
+    "n": 998,
+    "field_a": 500,
+    "field_b": 498,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 0.152,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 0.707,
+    "dual": 8
+  },
+  "analysed": {
+    "n": 998,
+    "field_a": 500,
+    "field_b": 498,
+    "field_a_on_topic": 76,
+    "field_a_on_topic_rate": 0.152,
+    "field_b_on_topic": 352,
+    "field_b_on_topic_rate": 0.707,
+    "dual": 8
+  },
+  "criteria": {
+    "min_size": 8,
+    "min_per_field": 3,
+    "min_balance": 0.5,
+    "alpha": 0.05
+  },
+  "primary_setting": {
+    "lens": "umap_seed42",
+    "n_cubes": 10,
+    "overlap": 0.5
+  },
+  "persistence_threshold": 0.5,
+  "knn_segregation": {
+    "k": 10,
+    "observed_same_label": 0.8870741482965931,
+    "null_mean": 0.4992158316633266,
+    "null_sd": 0.0059781420516278145,
+    "p_more_segregated": 0.000999000999000999,
+    "n_perm": 1000
+  },
+  "cosine": {
+    "cross_field_max": 0.8774325251579285,
+    "cross_field_median": 0.20291900634765625,
+    "within_a_median": 0.2230217158794403,
+    "nearest_b_for_each_a_median": 0.5264993906021118
+  },
+  "dbscan": {
+    "eps": 0.3486529588699341,
+    "eps_quantile": 0.5,
+    "min_samples": 5
+  },
+  "grid": {
+    "n_settings": 120,
+    "segregation_index_median": 0.9623888614261267,
+    "segregation_index_range": [
+      0.9310260105199314,
+      1.0
+    ],
+    "settings_less_mixed_than_chance_p05": 120,
+    "bridge_nodes_median": 1.0,
+    "legacy_bridge_nodes_median": 21.0,
+    "coverage_median": 0.6347695390781563,
+    "extra_clusters_median": 7.0,
+    "corr_legacy_bridges_vs_nodes": 0.7093510656075163
+  },
+  "primary_graph": {
+    "nodes": 72,
+    "edges": 162,
+    "components": 7,
+    "coverage": 0.6382765531062125,
+    "extra_clusters": 8,
+    "classes": {
+      "B-enriched": 29,
+      "A-enriched": 26,
+      "small": 16,
+      "bridge": 1
+    },
+    "legacy_bridge_nodes": 31,
+    "permutation": {
+      "observed": 0.030151331073733387,
+      "null_mean": 0.7989203293998712,
+      "null_sd": 0.02978371918475928,
+      "p_less_mixed": 0.000999000999000999,
+      "segregation_index": 0.9622599025657761,
+      "n_perm": 1000
+    }
+  },
+  "persistence": {
+    "docs": 9,
+    "docs_field_a": 4,
+    "docs_field_b": 5,
+    "pairs": 20,
+    "doc_freq_quantiles": {
+      "0.5": 0.0,
+      "0.9": 0.0,
+      "0.99": 0.10141666666665779
+    }
+  },
+  "bridge_groups": [
+    {
+      "size": 9,
+      "field_a": 4,
+      "field_b": 5,
+      "on_topic_share": 0.3333333333333333,
+      "distinctive_terms": [
+        [
+          "reasoning",
+          0.1181
+        ],
+        [
+          "symbolic",
+          0.105
+        ],
+        [
+          "neurosymbolic",
+          0.0988
+        ],
+        [
+          "neural",
+          0.0865
+        ],
+        [
+          "computing",
+          0.0699
+        ],
+        [
+          "language",
+          0.0674
+        ],
+        [
+          "language models",
+          0.0656
+        ],
+        [
+          "neural networks",
+          0.0648
+        ],
+        [
+          "neuro",
+          0.0645
+        ],
+        [
+          "neuro symbolic",
+          0.0645
+        ],
+        [
+          "networks",
+          0.0639
+        ],
+        [
+          "neurosymbolic ai",
+          0.0614
+        ]
+      ],
+      "titles": [
+        "[Field_A, off-topic] Knowledge Engineering using Large Language Models",
+        "[Field_A, off-topic] Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning",
+        "[Field_A, off-topic] Proceedings of the First International Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR 2024)",
+        "[Field_A, off-topic] Proceedings of the Second International Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR 2025)",
+        "[Field_B] Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety",
+        "[Field_B] Reasoning in Neurosymbolic AI",
+        "[Field_B] Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI",
+        "[Field_B, off-topic] Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems",
+        "[Field_B, off-topic] Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming"
+      ]
+    }
+  ],
+  "controls": {
+    "field_a_off_topic_in_bridges": {
+      "table": [
+        [
+          4,
+          420
+        ],
+        [
+          0,
+          76
+        ]
+      ],
+      "odds_ratio": null,
+      "p": 1.0
+    },
+    "dual_lexicon_in_bridges": {
+      "table": [
+        [
+          0,
+          8
+        ],
+        [
+          9,
+          981
+        ]
+      ],
+      "odds_ratio": 0.0,
+      "p": 1.0
+    },
+    "dual_lexicon_docs": [
+      {
+        "title": "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Harnessing the Power of Artificial Intelligence to Vitalize Endangered Indigenous Languages: Technologies and Experiences",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Exploring Multimodal Foundation AI and Expert-in-the-Loop for Sustainable Management of Wild Salmon Fisheries in Indigenous Rivers",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "What's Not on the Plate? Rethinking Food Computing through Indigenous Indian Datasets",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Uncovering Latent Connections in Indigenous Heritage: Semantic Pipelines for Cultural Preservation in Brazil",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "An Elemental Ethics for Artificial Intelligence: Water as Resistance Within AI's Value Chain",
+        "label": "Field_B",
+        "bridge_freq": 0.0
+      }
+    ]
+  },
+  "legacy_check": {
+    "nodes": 244,
+    "edges": 1687,
+    "components": 5,
+    "coverage": 0.9549098196392786,
+    "extra_clusters": 1,
+    "legacy_bridge_nodes": 142,
+    "legacy_mean_mixing": 0.21425322961670812,
+    "legacy_null_bridge_nodes_mean": 242.93,
+    "legacy_null_bridge_nodes_min": 235.0,
+    "legacy_null_mean_mixing": 0.7076077421015554,
+    "permutation_min_size1": {
+      "observed": 0.10420057563964173,
+      "null_mean": 0.7463980164315602,
+      "null_sd": 0.020176438458770558,
+      "p_less_mixed": 0.000999000999000999,
+      "segregation_index": 0.8603954279811564,
+      "n_perm": 1000
+    },
+    "v2_reported": {
+      "nodes": 235,
+      "bridge_nodes": 140,
+      "mean_mixing": 0.222
+    }
+  }
+}

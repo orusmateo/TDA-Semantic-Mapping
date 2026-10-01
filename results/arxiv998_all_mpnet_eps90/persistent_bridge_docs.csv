@@ -1,0 +1,75 @@
+bridge_freq,label,on_topic,dual,title,url
+0.775,Field_B,False,False,Rethinking industrial artificial intelligence: a unified foundation framework,http://arxiv.org/abs/2504.01797v2
+0.775,Field_A,False,False,Data Driven Chiller Plant Energy Optimization with Domain Knowledge,http://arxiv.org/abs/1812.00679v1
+0.775,Field_B,False,False,Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT,http://arxiv.org/abs/2009.00351v1
+0.7666666666666667,Field_A,False,False,XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines,http://arxiv.org/abs/2012.10489v2
+0.7666666666666667,Field_B,False,False,Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results,http://arxiv.org/abs/2105.00375v1
+0.7666666666666667,Field_B,True,False,The Powerful Use of AI in the Energy Sector: Intelligent Forecasting,http://arxiv.org/abs/2111.02026v1
+0.75,Field_A,False,False,Analysis and Knowledge Discovery from Sensors Data to Improve Energy Efficiency,http://arxiv.org/abs/2503.13501v1
+0.75,Field_A,False,False,PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks,http://arxiv.org/abs/2303.10256v3
+0.7416666666666667,Field_A,False,False,Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph,http://arxiv.org/abs/2401.13365v1
+0.7416666666666667,Field_A,False,False,Knowledge Distillation from Large Language Models for Household Energy Modeling,http://arxiv.org/abs/2502.03034v1
+0.7416666666666667,Field_B,True,False,"Explainable, Interpretable & Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life",http://arxiv.org/abs/2301.06676v2
+0.7333333333333333,Field_A,False,False,Transferring Domain Knowledge with an Adviser in Continuous Tasks,http://arxiv.org/abs/2102.08029v1
+0.7333333333333333,Field_A,False,False,Dexterous Robotic Manipulation using Deep Reinforcement Learning and Knowledge Transfer for Complex Sparse Reward-based Tasks,http://arxiv.org/abs/2205.09683v2
+0.7333333333333333,Field_A,False,False,Knowledge Informed Machine Learning using a Weibull-based Loss Function,http://arxiv.org/abs/2201.01769v1
+0.725,Field_B,False,False,Deep Reinforcement Learning for Conversational AI,http://arxiv.org/abs/1709.05067v1
+0.725,Field_A,False,False,Knowledge-Driven Robot Program Synthesis from Human VR Demonstrations,http://arxiv.org/abs/2306.02739v2
+0.725,Field_A,False,False,Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft,http://arxiv.org/abs/2112.03482v2
+0.725,Field_A,False,False,COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data,http://arxiv.org/abs/2407.12254v2
+0.725,Field_B,False,False,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation",http://arxiv.org/abs/2403.09227v1
+0.7166666666666667,Field_B,False,False,The AI Driving Olympics at NeurIPS 2018,http://arxiv.org/abs/1903.02503v1
+0.7166666666666667,Field_B,False,False,Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously,http://arxiv.org/abs/2007.03514v1
+0.7166666666666667,Field_B,False,False,Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI,http://arxiv.org/abs/2211.02759v1
+0.7166666666666667,Field_B,False,False,Green AI in Action: Strategic Model Selection for Ensembles in Production,http://arxiv.org/abs/2405.17451v2
+0.7083333333333334,Field_B,False,False,The 5th AI City Challenge,http://arxiv.org/abs/2104.12233v2
+0.7,Field_A,False,False,HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services,http://arxiv.org/abs/2402.15521v1
+0.7,Field_B,False,False,The 4th AI City Challenge,http://arxiv.org/abs/2004.14619v1
+0.7,Field_A,False,False,Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization,http://arxiv.org/abs/2309.15603v1
+0.6916666666666667,Field_A,False,False,Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems,http://arxiv.org/abs/2508.12375v1
+0.6916666666666667,Field_A,False,False,"Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning",http://arxiv.org/abs/2304.11739v1
+0.6833333333333333,Field_A,False,False,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,http://arxiv.org/abs/2412.07493v3
+0.6833333333333333,Field_A,False,False,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,http://arxiv.org/abs/2412.19469v1
+0.6833333333333333,Field_A,False,False,Leveraging human knowledge in tabular reinforcement learning: A study of human subjects,http://arxiv.org/abs/1805.05769v1
+0.675,Field_A,False,False,Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning,http://arxiv.org/abs/2408.12409v1
+0.675,Field_A,False,False,Knowledge Representation for Robots through Human-Robot Interaction,http://arxiv.org/abs/1307.7351v2
+0.675,Field_B,False,False,Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI,http://arxiv.org/abs/2303.13972v1
+0.675,Field_B,True,False,AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models,http://arxiv.org/abs/2602.16042v2
+0.675,Field_B,False,False,"Making AI Less ""Thirsty"": Uncovering and Addressing the Secret Water Footprint of AI Models",http://arxiv.org/abs/2304.03271v5
+0.675,Field_B,False,False,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI,http://arxiv.org/abs/2407.06886v8
+0.675,Field_A,False,False,DeepVATS: Deep Visual Analytics for Time Series,http://arxiv.org/abs/2302.03858v2
+0.6666666666666666,Field_B,False,False,Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation,http://arxiv.org/abs/2207.02201v1
+0.6666666666666666,Field_A,False,False,A Survey on Knowledge Graph-based Methods for Automated Driving,http://arxiv.org/abs/2210.08119v1
+0.6666666666666666,Field_A,False,False,Towards Infusing Auxiliary Knowledge for Distracted Driver Detection,http://arxiv.org/abs/2408.16621v1
+0.6666666666666666,Field_A,False,False,An Evaluation of Knowledge Graph Embeddings for Autonomous Driving Data: Experience and Practice,http://arxiv.org/abs/2003.00344v1
+0.6583333333333333,Field_B,True,False,Efficiency Will Not Lead to Sustainable Reasoning AI,http://arxiv.org/abs/2511.15259v1
+0.6583333333333333,Field_B,True,False,Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI,http://arxiv.org/abs/2401.01040v1
+0.6583333333333333,Field_B,False,False,Energy Efficiency Considerations for Popular AI Benchmarks,http://arxiv.org/abs/2304.08359v1
+0.6416666666666667,Field_A,False,False,A Methodology for Designing Knowledge-Driven Missions for Robots,http://arxiv.org/abs/2601.20797v1
+0.6333333333333333,Field_A,False,False,Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems,http://arxiv.org/abs/1903.12394v3
+0.6333333333333333,Field_A,False,False,Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees,http://arxiv.org/abs/2009.10263v1
+0.6333333333333333,Field_A,False,False,Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning,http://arxiv.org/abs/1912.00512v2
+0.6333333333333333,Field_A,False,False,Knowledge Distillation and Enhanced Subdomain Adaptation Using Graph Convolutional Network for Resource-Constrained Bearing Fault Diagnosis,http://arxiv.org/abs/2501.07173v1
+0.625,Field_A,False,False,Clustering-Based Approaches for Symbolic Knowledge Extraction,http://arxiv.org/abs/2211.00234v1
+0.6166666666666667,Field_B,True,False,Reasoning in Neurosymbolic AI,http://arxiv.org/abs/2505.20313v1
+0.6166666666666667,Field_B,False,False,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems,http://arxiv.org/abs/2205.01128v1
+0.6083333333333333,Field_B,False,False,Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming,http://arxiv.org/abs/2304.09276v2
+0.6083333333333333,Field_A,False,False,Knowledge Elicitation via Sequential Probabilistic Inference for High-Dimensional Prediction,http://arxiv.org/abs/1612.03328v2
+0.5916666666666667,Field_B,True,False,"Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety",http://arxiv.org/abs/2312.06798v1
+0.5916666666666667,Field_B,True,False,Explanatory machine learning for sequential human teaching,http://arxiv.org/abs/2205.10250v2
+0.5916666666666667,Field_B,True,False,Generative AI Meets Future Cities: Towards an Era of Autonomous Urban Intelligence,http://arxiv.org/abs/2304.03892v3
+0.5916666666666667,Field_B,True,False,Learning Interpretable Rules from Neural Networks: Neurosymbolic AI for Radar Hand Gesture Recognition,http://arxiv.org/abs/2506.22443v1
+0.575,Field_A,False,False,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,http://arxiv.org/abs/2212.03041v1
+0.5583333333333333,Field_A,False,False,Knowledge-driven Active Learning,http://arxiv.org/abs/2110.08265v4
+0.5583333333333333,Field_B,False,False,AI-based evaluation of the SDGs: The case of crop detection with earth observation data,http://arxiv.org/abs/1907.02813v1
+0.5583333333333333,Field_A,False,False,Reformulation Techniques for Automated Planning: A Systematic Review,http://arxiv.org/abs/2301.10079v2
+0.55,Field_A,False,False,Human-in-the-loop Handling of Knowledge Drift,http://arxiv.org/abs/2103.14874v1
+0.5416666666666666,Field_B,True,False,Affordable Artificial Intelligence -- Augmenting Farmer Knowledge with AI,http://arxiv.org/abs/2303.06049v1
+0.525,Field_B,True,False,"Instructive artificial intelligence (AI) for human training, assistance, and explainability",http://arxiv.org/abs/2111.01726v1
+0.525,Field_B,False,False,Augment & Valuate : A Data Enhancement Pipeline for Data-Centric AI,http://arxiv.org/abs/2112.03837v1
+0.5083333333333333,Field_A,False,False,A study on the ephemeral nature of knowledge shared within multiagent systems,http://arxiv.org/abs/2211.04433v1
+0.5083333333333333,Field_A,False,False,EMERSK -- Explainable Multimodal Emotion Recognition with Situational Knowledge,http://arxiv.org/abs/2306.08657v1
+0.5083333333333333,Field_B,False,False,Towards Seamless Management of AI Models in High-Performance Computing,http://arxiv.org/abs/2212.06352v1
+0.5,Field_A,True,False,Towards the Development of a Rule-based Drought Early Warning Expert Systems using Indigenous Knowledge,http://arxiv.org/abs/1809.08101v1
+0.5,Field_A,False,False,Knowledge Engineering using Large Language Models,http://arxiv.org/abs/2310.00637v1
+0.5,Field_B,False,False,General AI Challenge - Round One: Gradual Learning,http://arxiv.org/abs/1708.05346v1

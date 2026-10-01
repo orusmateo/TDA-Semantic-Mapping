@@ -1,0 +1,18 @@
+bridge_freq,label,on_topic,dual,title,url
+0.4083333333333333,Field_B,True,False,"AI Gender Bias, Disparities, and Fairness: Does Training Data Matter?",http://arxiv.org/abs/2312.10833v4
+0.39166666666666666,Field_B,True,False,Fairness and Bias in Truth Discovery Algorithms: An Experimental Analysis,http://arxiv.org/abs/2304.12573v1
+0.38333333333333336,Field_B,True,False,The Butterfly Effect in Artificial Intelligence Systems: Implications for AI Bias and Fairness,http://arxiv.org/abs/2307.05842v4
+0.375,Field_B,True,False,The Fair Game: Auditing & Debiasing AI Algorithms Over Time,http://arxiv.org/abs/2508.06443v1
+0.35833333333333334,Field_B,True,False,It's only fair when I think it's fair: How Gender Bias Alignment Undermines Distributive Fairness in Human-AI Collaboration,http://arxiv.org/abs/2505.10661v2
+0.35833333333333334,Field_B,True,False,Biased Programmers? Or Biased Data? A Field Experiment in Operationalizing AI Ethics,http://arxiv.org/abs/2012.02394v1
+0.35,Field_B,True,False,Towards Composable Bias Rating of AI Services,http://arxiv.org/abs/1808.00089v2
+0.3416666666666667,Field_B,True,False,Bias Amplification in Artificial Intelligence Systems,http://arxiv.org/abs/1809.07842v1
+0.3333333333333333,Field_A,True,True,Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis,http://arxiv.org/abs/2304.11094v1
+0.3,Field_B,True,False,Oxford Handbook on AI Ethics Book Chapter on Race and Gender,http://arxiv.org/abs/1908.06165v1
+0.3,Field_B,True,False,"""My Kind of Woman"": Analysing Gender Stereotypes in AI through The Averageness Theory and EU Law",http://arxiv.org/abs/2407.17474v1
+0.2916666666666667,Field_B,True,False,No Thoughts Just AI: Biased LLM Hiring Recommendations Alter Human Decision Making and Limit Human Autonomy,http://arxiv.org/abs/2509.04404v2
+0.275,Field_A,True,False,The Effect of Stereotypes on Perceived Competence of Indigenous Software Practitioners: A Professional Photo,http://arxiv.org/abs/2308.14695v1
+0.275,Field_B,True,False,Towards Standardizing AI Bias Exploration,http://arxiv.org/abs/2405.19022v1
+0.26666666666666666,Field_B,True,False,Fairness Score and Process Standardization: Framework for Fairness Certification in Artificial Intelligence Systems,http://arxiv.org/abs/2201.06952v1
+0.25833333333333336,Field_B,True,False,Modeling Epistemological Principles for Bias Mitigation in AI Systems: An Illustration in Hiring Decisions,http://arxiv.org/abs/1711.07111v1
+0.25833333333333336,Field_A,True,False,Indigenization of Urban Mobility,http://arxiv.org/abs/1405.7769v2

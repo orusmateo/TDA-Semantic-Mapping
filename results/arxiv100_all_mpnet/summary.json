@@ -1,0 +1,162 @@
+{
+  "args": {
+    "corpus": "data/legacy_arxiv100/corpus.csv",
+    "embeddings": "data/legacy_arxiv100/embeddings_mpnet.npy",
+    "representation": "mpnet",
+    "subset": "all",
+    "eps_quantile": 0.5,
+    "min_samples": 3,
+    "n_perm": 1000,
+    "grid_perm": 200,
+    "min_balance": 0.5,
+    "min_per_field": 3,
+    "persistence": 0.5,
+    "legacy_check": false,
+    "out": "results/arxiv100_all_mpnet"
+  },
+  "relevance_full_corpus": {
+    "n": 100,
+    "field_a": 50,
+    "field_b": 50,
+    "field_a_on_topic": 32,
+    "field_a_on_topic_rate": 0.64,
+    "field_b_on_topic": 37,
+    "field_b_on_topic_rate": 0.74,
+    "dual": 3
+  },
+  "analysed": {
+    "n": 100,
+    "field_a": 50,
+    "field_b": 50,
+    "field_a_on_topic": 32,
+    "field_a_on_topic_rate": 0.64,
+    "field_b_on_topic": 37,
+    "field_b_on_topic_rate": 0.74,
+    "dual": 3
+  },
+  "criteria": {
+    "min_size": 8,
+    "min_per_field": 3,
+    "min_balance": 0.5,
+    "alpha": 0.05
+  },
+  "primary_setting": {
+    "lens": "umap_seed42",
+    "n_cubes": 10,
+    "overlap": 0.5
+  },
+  "persistence_threshold": 0.5,
+  "knn_segregation": {
+    "k": 10,
+    "observed_same_label": 0.888,
+    "null_mean": 0.49533299999999997,
+    "null_sd": 0.018576199454845076,
+    "p_more_segregated": 0.000999000999000999,
+    "n_perm": 1000
+  },
+  "cosine": {
+    "cross_field_max": 0.6631616353988647,
+    "cross_field_median": 0.176735058426857,
+    "within_a_median": 0.1997196525335312,
+    "nearest_b_for_each_a_median": 0.38169851899147034
+  },
+  "dbscan": {
+    "eps": 0.351343035697937,
+    "eps_quantile": 0.5,
+    "min_samples": 3
+  },
+  "grid": {
+    "n_settings": 120,
+    "segregation_index_median": 1.0,
+    "segregation_index_range": [
+      1.0,
+      1.0
+    ],
+    "settings_less_mixed_than_chance_p05": 120,
+    "bridge_nodes_median": 0.0,
+    "legacy_bridge_nodes_median": 0.0,
+    "coverage_median": 0.56,
+    "extra_clusters_median": 2.0,
+    "corr_legacy_bridges_vs_nodes": NaN
+  },
+  "primary_graph": {
+    "nodes": 23,
+    "edges": 36,
+    "components": 5,
+    "coverage": 0.57,
+    "extra_clusters": 2,
+    "classes": {
+      "small": 16,
+      "B-enriched": 6,
+      "A-enriched": 1
+    },
+    "legacy_bridge_nodes": 0,
+    "permutation": {
+      "observed": 0.0,
+      "null_mean": 0.671695107770409,
+      "null_sd": 0.10969118081605367,
+      "p_less_mixed": 0.000999000999000999,
+      "segregation_index": 1.0,
+      "n_perm": 1000
+    }
+  },
+  "persistence": {
+    "docs": 0,
+    "docs_field_a": 0,
+    "docs_field_b": 0,
+    "pairs": 0,
+    "doc_freq_quantiles": {
+      "0.5": 0.0,
+      "0.9": 0.0,
+      "0.99": 0.0
+    }
+  },
+  "bridge_groups": [],
+  "controls": {
+    "field_a_off_topic_in_bridges": {
+      "table": [
+        [
+          0,
+          18
+        ],
+        [
+          0,
+          32
+        ]
+      ],
+      "odds_ratio": null,
+      "p": 1.0
+    },
+    "dual_lexicon_in_bridges": {
+      "table": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          97
+        ]
+      ],
+      "odds_ratio": null,
+      "p": 1.0
+    },
+    "dual_lexicon_docs": [
+      {
+        "title": "Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      },
+      {
+        "title": "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis",
+        "label": "Field_A",
+        "bridge_freq": 0.0
+      }
+    ]
+  }
+}

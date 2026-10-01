@@ -1,0 +1,51 @@
+cosine,title_a,title_b,a_on_topic
+0.66316164,SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval,Foundations of GenIR,False
+0.65104365,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.6094023,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,AI Governance and Ethics Framework for Sustainable AI and Sustainability,True
+0.60254014,Knowledge Graph Curation: A Practical Framework,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.5986242,Unifying Large Language Models and Knowledge Graphs: A Roadmap,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.59111285,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Queering the ethics of AI,True
+0.5814569,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Ethical AI: Towards Defining a Collective Evaluation Framework,False
+0.5797515,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,"Confucius, Cyberpunk and Mr. Science: Comparing AI ethics between China and the EU",True
+0.57973284,Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond,Foundations of GenIR,False
+0.55963796,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Principles alone cannot guarantee ethical AI,True
+0.54932356,Unifying Large Language Models and Knowledge Graphs: A Roadmap,Foundations of GenIR,False
+0.54866266,Leveraging traditional ecological knowledge in ecosystem restoration projects utilizing machine learning,AI Governance and Ethics Framework for Sustainable AI and Sustainability,True
+0.54327285,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,AI Ethics in Industry: A Research Framework,True
+0.53616655,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Towards a Praxis for Intercultural Ethics in Explainable AI,True
+0.52540696,Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond,Supporting Data-Frame Dynamics in AI-assisted Decision Making,False
+0.52279747,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,"How Do AI Companies ""Fine-Tune"" Policy? Examining Regulatory Capture in AI Governance",True
+0.5214368,User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.5179423,Learning Attention-based Representations from Multiple Patterns for Relation Prediction in Knowledge Graphs,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.5167326,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Ethical AI: Towards Defining a Collective Evaluation Framework,True
+0.50803876,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety,True
+0.50728124,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Explaining how your AI system is fair,True
+0.50569546,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions,True
+0.50413275,Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios,Beyond principlism: Practical strategies for ethical AI use in research practices,True
+0.5002467,Knowledge-driven Active Learning,Data-Centric Safety and Ethical Measures for Data and AI Governance,False
+0.49910402,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Data-Centric Safety and Ethical Measures for Data and AI Governance,True
+0.49572805,AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.4956591,Adversarial Learning for Debiasing Knowledge Graph Embeddings,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.49326846,Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond,Beyond principlism: Practical strategies for ethical AI use in research practices,False
+0.48864496,Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios,Towards a Praxis for Intercultural Ethics in Explainable AI,True
+0.48746216,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Study on the Helpfulness of Explainable Artificial Intelligence,False
+0.4840048,Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios,Queering the ethics of AI,True
+0.48010752,Knowledge Query Network: How Knowledge Interacts with Skills,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.4778257,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Privacy and Copyright Protection in Generative AI: A Lifecycle Perspective,True
+0.47553766,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Competing Visions of Ethical AI: A Case Study of OpenAI,False
+0.4755352,Improving Graph Embeddings in Machine Learning Using Knowledge Completion with Validation in a Case Study on COVID-19 Spread,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.47428495,A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.47418866,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Explaining how your AI system is fair,False
+0.4740153,User Friendly Automatic Construction of Background Knowledge: Mode Construction from ER Diagrams,Supporting Data-Frame Dynamics in AI-assisted Decision Making,False
+0.4739517,Knowledge-driven Active Learning,Supporting Data-Frame Dynamics in AI-assisted Decision Making,False
+0.47330844,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Competing Visions of Ethical AI: A Case Study of OpenAI,True
+0.4727007,Unifying Large Language Models and Knowledge Graphs: A Roadmap,Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization,False
+0.47256935,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,"Integration of AI in STEM Education, Addressing Ethical Challenges in K-12 Settings",True
+0.47000653,Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios,Expansive Participatory AI: Supporting Dreaming within Inequitable Institutions,True
+0.46850055,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization,False
+0.4674855,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making,False
+0.46535236,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,AI Safety is Stuck in Technical Terms -- A System Safety Response to the International AI Safety Report,True
+0.4608882,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Supporting Data-Frame Dynamics in AI-assisted Decision Making,False
+0.45973584,In Consideration of Indigenous Data Sovereignty: Data Mining as a Colonial Practice,Meaningful human control: actionable properties for AI system development,True
+0.45949602,SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval,Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System,False
+0.45838228,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,Need of AI in Modern Education: in the Eyes of Explainable AI (xAI),False

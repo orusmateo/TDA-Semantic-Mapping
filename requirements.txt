@@ -1,7 +1,18 @@
-arxiv
-pandas
-numpy
-scikit-learn
-kmapper
-umap-learn
-sentence-transformers
+# Analysis (versions used for the results in results/; Python 3.11)
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+scikit-learn==1.9.1
+umap-learn==0.5.12
+kmapper==2.1.0
+networkx==3.6.1
+pytest==9.1.1
+
+# Harvesting (scripts/fetch_arxiv.py, scripts/ingest_pdfs.py)
+arxiv==4.0.1
+pymupdf==1.28.2
+
+# Sentence embeddings: only needed to embed a new corpus. Not installed or
+# tested in the environment that produced results/, which reused the frozen
+# embeddings in data/. Downloads all-mpnet-base-v2 from Hugging Face once.
+# sentence-transformers
